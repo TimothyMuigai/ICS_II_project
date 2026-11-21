@@ -1,0 +1,115 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NSE Research Assistant — Sign in</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body class="auth-body">
+
+  <main class="auth-container">
+
+    <div class="auth-brand">
+      <div>
+        <h1>Financial Research Assistant</h1>
+        <p>Research smarter. Invest informed.</p>
+      </div>
+    </div>
+
+    <div class="auth-card">
+
+      <div class="tabs">
+        <button class="tab active" data-tab="login">
+          Sign in
+        </button>
+        <button class="tab" data-tab="register">
+          Create account
+        </button>
+      </div>
+
+      <form id="login-form" class="auth-form">
+        <h2>Welcome back</h2>
+        <p class="muted">Sign in to continue your investment research.</p>
+
+        <label>
+          <span>Email address</span>
+          <input
+            type="email"
+            name="email"
+            required
+            autocomplete="email"
+            placeholder="you@example.com"
+          />
+        </label>
+
+        <label>
+          <span>Password</span>
+          <input
+            type="password"
+            name="password"
+            required
+            autocomplete="current-password"
+            placeholder="Enter your password"
+          />
+        </label>
+
+        <div class="error" id="login-error"></div>
+
+        <button type="submit" class="btn-primary">
+          Sign in
+        </button>
+      </form>
+
+      <form id="register-form" class="auth-form hidden">
+        <h2>Create your account</h2>
+
+        <label>
+          <span>Full name</span>
+          <input
+            type="text"
+            name="name"
+            required
+            autocomplete="name"
+            placeholder="e.g. Wanjiku Kamau"
+          />
+        </label>
+
+        <label>
+          <span>Email address</span>
+          <input
+            type="email"
+            name="email"
+            required
+            autocomplete="email"
+            placeholder="you@example.com"
+          />
+        </label>
+
+        <label>
+          <span>Password</span>
+          <input
+            type="password"
+            name="password"
+            required
+            minlength="8"
+            autocomplete="new-password"
+            placeholder="At least 8 characters"
+          />
+        </label>
+
+        <div class="error" id="register-error"></div>
+
+        <button type="submit" class="btn-primary">
+          Create account
+        </button>
+      </form>
+
+    </div>
+
+  </main>
+
+  <script src="/auth.js"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "document": "syn_t1_faq_tbills.json",
+  "source_id": "syn_t1_faq_tbills",
+  "publisher": "SYN Central Bank",
+  "author": "",
+  "tier": 1,
+  "topic": "tbills",
+  "doc_type": "faq",
+  "published_date": "2026-09-13",
+  "url": "synthetic://syn_t1_faq_tbills",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Frequently asked questions about Treasury bills, published by the SYN Central Bank. Question: What is the minimum bid for a Treasury bill? Answer: SYN Sh 40,000. Question: What maturities do Treasury bills come in? Answer: 91, 182 and 364 days. Question: Can Treasury bills be sold before maturity? Answer: Yes, on the secondary market. These answers are updated whenever the rules change. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

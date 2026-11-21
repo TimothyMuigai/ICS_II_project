@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_article_sb_min.json",
+  "source_id": "syn_t2_article_sb_min",
+  "publisher": "SYN Daily Ledger",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "savings_bond",
+  "doc_type": "news_article",
+  "published_date": "2025-05-05",
+  "url": "synthetic://syn_t2_article_sb_min",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Daily Ledger, 2025-05-05. The Sokoni Savings Bond minimum is SYN Sh 5,000. Trading volumes were broadly in line with the previous month, according to exchange data. Analysts at several brokerages said they expected conditions to stay stable through the quarter. Industry groups welcomed the clarity but asked for more investor education. Interest is paid periodically and the face value is returned on maturity."
+    },
+    {
+      "page": 2,
+      "text": "It can be bought and managed from a mobile phone through registered agents. The figures above were correct at the time of publication and may change in future. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

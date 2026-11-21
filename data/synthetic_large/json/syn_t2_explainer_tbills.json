@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_explainer_tbills.json",
+  "source_id": "syn_t2_explainer_tbills",
+  "publisher": "SYN Business Review",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "tbills",
+  "doc_type": "news_article",
+  "published_date": "2026-03-09",
+  "url": "synthetic://syn_t2_explainer_tbills",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Business Review explains how Treasury bills work for ordinary savers. Market participants said the move reflected steady demand from retail and institutional investors. Industry groups welcomed the clarity but asked for more investor education. Officials declined to comment on whether further changes were planned. According to the regulator, since 1 January 2026 the smallest accepted bid at a Treasury bill auction is SYN Sh 40,000."
+    },
+    {
+      "page": 2,
+      "text": "According to the regulator, the three bill maturities offered at auction are 91, 182 and 364 days. According to the regulator, treasury bills can be resold before they mature, but the price received depends on market yields at that time. Treasury bills are short-term government securities issued at a discount and redeemed at face value. Bills are sold at regular auctions and can be bid for through a bank, a broker or the central bank's online platform. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

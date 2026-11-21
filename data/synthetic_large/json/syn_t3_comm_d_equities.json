@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_d_equities.json",
+  "source_id": "syn_t3_comm_d_equities",
+  "publisher": "Commentator D (SYN)",
+  "author": "Commentator D (SYN)",
+  "tier": 3,
+  "topic": "equities",
+  "doc_type": "commentary",
+  "published_date": "2025-07-27",
+  "url": "synthetic://syn_t3_comm_d_equities",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Forget the experts for a moment. I want to talk about shares today. Take a patient long-term view and hold on. Reinvest your earnings every year and let time do the work. Brokers charge only 0.5 percent, so trading costs next to nothing."
+    },
+    {
+      "page": 2,
+      "text": "Shares represent part ownership of a listed company and are traded through licensed brokers on the exchange. Share prices move with company results, market sentiment and the wider economy. Share this with a friend who needs to hear it. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

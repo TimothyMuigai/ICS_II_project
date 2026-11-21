@@ -1,0 +1,18 @@
+{
+  "document": "syn_t2_analyst_msitu_logistics.json",
+  "source_id": "syn_t2_analyst_msitu_logistics",
+  "publisher": "SYN Daily Ledger",
+  "author": "Equity desk",
+  "tier": 2,
+  "topic": "equities",
+  "doc_type": "analyst_note",
+  "published_date": "2026-07-27",
+  "url": "synthetic://syn_t2_analyst_msitu_logistics",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Daily Ledger analyst note on Msitu Logistics (SYN). The analyst set a twelve-month target price of SYN Sh 23.08 for MSI4. The note cites steady demand in the logistics sector and cost control at Msitu Logistics (SYN). The development follows a year in which small investors have shown growing interest in formal products. Trading volumes were broadly in line with the previous month, according to exchange data. Industry groups welcomed the clarity but asked for more investor education. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

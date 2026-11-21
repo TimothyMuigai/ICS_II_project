@@ -1,0 +1,18 @@
+{
+  "document": "syn_t1_faq_reits.json",
+  "source_id": "syn_t1_faq_reits",
+  "publisher": "SYN Capital Markets Authority",
+  "author": "",
+  "tier": 1,
+  "topic": "reits",
+  "doc_type": "faq",
+  "published_date": "2026-05-16",
+  "url": "synthetic://syn_t1_faq_reits",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Frequently asked questions about REITs, published by the SYN Capital Markets Authority. Question: What share of income must a REIT distribute? Answer: At least 80 percent. Question: What is the withholding tax on REIT distributions? Answer: 15 percent. These answers are updated whenever the rules change. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

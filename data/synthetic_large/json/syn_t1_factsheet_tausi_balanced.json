@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_tausi_balanced.json",
+  "source_id": "syn_t1_factsheet_tausi_balanced",
+  "publisher": "Moyo Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-08-03",
+  "url": "synthetic://syn_t1_factsheet_tausi_balanced",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Tausi Balanced Fund factsheet, issued by Moyo Asset Managers (SYN). Tausi Balanced Fund is a balanced fund and its objective is to provide moderate growth with lower volatility than shares alone. The management fee of Tausi Balanced Fund is 2.6 percent per annum. The minimum initial investment in Tausi Balanced Fund is SYN Sh 500, and the minimum top-up is SYN Sh 500. Over the 12 months to 2026-09-30 Tausi Balanced Fund delivered an effective annual yield of 8.1 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Tausi Balanced Fund are paid within 3 business days. The main holdings of Tausi Balanced Fund are REIT units (40 percent), fixed deposits (35 percent) and bank shares (15 percent). Bara Custodial (SYN) acts as trustee of Tausi Balanced Fund and holds its assets separately from the manager. Tausi Balanced Fund was launched in 2018 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

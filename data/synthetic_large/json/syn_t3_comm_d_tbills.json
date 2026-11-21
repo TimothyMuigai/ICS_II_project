@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_d_tbills.json",
+  "source_id": "syn_t3_comm_d_tbills",
+  "publisher": "Commentator D (SYN)",
+  "author": "Commentator D (SYN)",
+  "tier": 3,
+  "topic": "tbills",
+  "doc_type": "commentary",
+  "published_date": "2026-06-05",
+  "url": "synthetic://syn_t3_comm_d_tbills",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "I have been investing for years and this is my take. I want to talk about Treasury bills today. Take a patient long-term view and hold on. Reinvest your earnings every year and let time do the work. Once you buy a Treasury bill your money is locked and it cannot be sold until it matures."
+    },
+    {
+      "page": 2,
+      "text": "Treasury bills are short-term government securities issued at a discount and redeemed at face value. Bills are sold at regular auctions and can be bid for through a bank, a broker or the central bank's online platform. This is only my opinion and you must decide for yourself. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

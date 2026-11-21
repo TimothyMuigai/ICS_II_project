@@ -1,0 +1,18 @@
+{
+  "document": "syn_t1_faq_tax.json",
+  "source_id": "syn_t1_faq_tax",
+  "publisher": "SYN Revenue Authority",
+  "author": "",
+  "tier": 1,
+  "topic": "tax",
+  "doc_type": "faq",
+  "published_date": "2026-04-12",
+  "url": "synthetic://syn_t1_faq_tax",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Frequently asked questions about investment tax, published by the SYN Revenue Authority. Question: How are money market fund returns taxed? Answer: 12 percent final withholding tax. Question: What is the withholding tax rate on dividends for resident individuals? Answer: 8 percent. Question: Is there a capital gains tax on shares? Answer: Yes, 2 percent of the gain. These answers are updated whenever the rules change. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

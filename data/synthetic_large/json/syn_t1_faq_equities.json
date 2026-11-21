@@ -1,0 +1,18 @@
+{
+  "document": "syn_t1_faq_equities.json",
+  "source_id": "syn_t1_faq_equities",
+  "publisher": "SYN Securities Exchange",
+  "author": "",
+  "tier": 1,
+  "topic": "equities",
+  "doc_type": "faq",
+  "published_date": "2026-05-18",
+  "url": "synthetic://syn_t1_faq_equities",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Frequently asked questions about shares, published by the SYN Securities Exchange. Question: How many days after a trade do share trades settle? Answer: T+3, three business days. Question: What is the maximum brokerage commission on share trades? Answer: 1.2 percent of trade value. These answers are updated whenever the rules change. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

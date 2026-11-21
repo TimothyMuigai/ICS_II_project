@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_fundcompare_00.json",
+  "source_id": "syn_t2_fundcompare_00",
+  "publisher": "SYN Business Review",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "funds",
+  "doc_type": "news_article",
+  "published_date": "2026-08-23",
+  "url": "synthetic://syn_t2_fundcompare_00",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Business Review compares fund performance over the past year. Industry groups welcomed the clarity but asked for more investor education. Officials declined to comment on whether further changes were planned. The Pweza Bond Fund charged 1.6 percent a year, with a minimum of SYN Sh 5,000. The Nyati Equity Fund charged 2.2 percent a year, with a minimum of SYN Sh 5,000."
+    },
+    {
+      "page": 2,
+      "text": "The Simba Money Market Fund charged 2.5 percent a year, with a minimum of SYN Sh 1,000. The Tausi Equity Fund charged 2.3 percent a year, with a minimum of SYN Sh 1,000. The Baraka Balanced Fund charged 2.4 percent a year, with a minimum of SYN Sh 5,000. The Jua Bond Fund charged 1.6 percent a year, with a minimum of SYN Sh 10,000. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_guide_tbills.json",
+  "source_id": "syn_t1_guide_tbills",
+  "publisher": "SYN Central Bank",
+  "author": "",
+  "tier": 1,
+  "topic": "tbills",
+  "doc_type": "investor_guide",
+  "published_date": "2026-02-06",
+  "url": "synthetic://syn_t1_guide_tbills",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Treasury bills are short-term government securities issued at a discount and redeemed at face value. The difference between the price paid and the face value is the investor's return. Bills are sold at regular auctions and can be bid for through a bank, a broker or the central bank's online platform. Because the government is the borrower, bills are regarded as having very low credit risk, though their yield varies from auction to auction. Competitive bids state a yield, while non-competitive bids accept the average yield set at the auction."
+    },
+    {
+      "page": 2,
+      "text": "The minimum bid for a Treasury bill is SYN Sh 40,000, and additional amounts are bid in multiples of SYN Sh 10,000. Treasury bills are issued with maturities of 91 days, 182 days and 364 days. A holder may sell a Treasury bill before maturity on the secondary market through a licensed broker. This guide was issued by the SYN Central Bank for retail investors and is reviewed every year. Readers who need advice on Treasury bills should consult a licensed adviser, because this guide gives information only. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "q001",
+    "category": "official_fact",
+    "question": "What is the minimum bid for a Treasury bill?",
+    "gold_answer": "SYN Sh 40,000",
+    "expected_source_ids": [
+      "syn_t1_guide_tbills"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 0.3333333333333333,
+    "citation_recall": 1.0,
+    "answer": "Here is what the documents say:\n\n- Question: What is the minimum bid for a Treasury bill? [source: syn_t1_faq_tbills, tier 1]\n- The minimum bid for a Treasury bill is SYN Sh 40,000, and additional amounts are bid in multiples of SYN Sh 10,000. [source: syn_t1_guide_tbills, tier 1]\n- The minimum bid for a Treasury bond is SYN Sh 100,000, in multiples of SYN Sh 50,000 thereafter. [source: syn_t1_guide_tbonds, tier 1]\n- A holder may sell a Treasury bill before maturity on the secondary market through a licensed broker. [source: syn_t1_guide_tbills, tier 1]\n\nIf two sources disagree above, prefer the Tier 1 official source over commentary. This is not personalized investment advice.",
+    "retrieved_source_ids": [
+      "syn_t1_guide_tbills",
+      "syn_t1_guide_tbonds",
+      "syn_t1_faq_tbills",
+      "syn_t2_explainer_tbills"
+    ],
+    "cited_source_ids": [
+      "syn_t1_faq_tbills",
+      "syn_t1_guide_tbills",
+      "syn_t1_guide_tbonds"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q021",
+    "category": "opinion",
+    "question": "What does Commentator C (SYN) say about Treasury bills?",
+    "gold_answer": "Sceptical; warns that advertised returns are overstated",
+    "expected_source_ids": [
+      "syn_t3_comm_c_tbills"
+    ],
+    "precision_at_k": 0.3333333333333333,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 0.3333333333333333,
+    "citation_recall": 1.0,
+    "answer": "Here is what the documents say:\n\n- SYN Business Review explains how Treasury bills work for ordinary savers. [source: syn_t2_explainer_tbills, tier 2]\n- I want to talk about Treasury bills today. [source: syn_t3_comm_c_tbills, tier 3]\n- You can start buying Treasury bills with only SYN Sh 5,000, no big money needed. [source: syn_t3_comm_c_tbills, tier 3]\n- I want to talk about Treasury bills today. [source: syn_t3_comm_d_tbills, tier 3]\n\nIf two sources disagree above, prefer the Tier 1 official source over commentary. This is not personalized investment advice.",
+    "retrieved_source_ids": [
+      "syn_t3_comm_c_tbills",
+      "syn_t3_comm_d_tbills",
+      "syn_t2_explainer_tbills"
+    ],
+    "cited_source_ids": [
+      "syn_t2_explainer_tbills",
+      "syn_t3_comm_c_tbills",
+      "syn_t3_comm_d_tbills"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q039",
+    "category": "conflict",
+    "question": "How much money do I need to buy a Treasury bill?",
+    "gold_answer": "SYN Sh 40,000",
+    "expected_source_ids": [
+      "syn_t1_guide_tbills",
+      "syn_t2_article_tbill_min",
+      "syn_t3_comm_c_tbills"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 0.3333333333333333,
+    "mrr": 1.0,
+    "citation_precision": 0.5,
+    "citation_recall": 0.3333333333333333,
+    "answer": "Here is what the documents say:\n\n- The minimum bid for a Treasury bill is SYN Sh 40,000, and additional amounts are bid in multiples of SYN Sh 10,000. [source: syn_t1_guide_tbills, tier 1]\n- A holder may sell a Treasury bill before maturity on the secondary market through a licensed broker. [source: syn_t1_guide_tbills, tier 1]\n- Readers who need advice on Treasury bills should consult a licensed adviser, because this guide gives information only. [source: syn_t1_guide_tbills, tier 1]\n- Question: What is the minimum bid for a Treasury bill? [source: syn_t1_faq_tbills, tier 1]\n\nIf two sources disagree above, prefer the Tier 1 official source over commentary. This is not personalized investment advice.",
+    "retrieved_source_ids": [
+      "syn_t1_guide_tbills",
+      "syn_t1_faq_tbills",
+      "syn_t1_guide_tbonds",
+      "syn_t1_guide_savings_bond"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_tbills",
+      "syn_t1_faq_tbills"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q119",
+    "category": "market_data",
+    "question": "What was the SSE All-Share Index at the close of the week ending 2026-05-22?",
+    "gold_answer": "2,066.19",
+    "expected_source_ids": [
+      "syn_t2_wrap_2026-05-22"
+    ],
+    "precision_at_k": 1.0,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 1.0,
+    "citation_recall": 1.0,
+    "answer": "Here is what the documents say:\n\n- The SSE All-Share Index closed the week ending 2026-05-22 at 2,066.19 points. [source: syn_t2_wrap_2026-05-22, tier 2]\n- SYN Market Wire weekly wrap for the week ending 2026-05-22. [source: syn_t2_wrap_2026-05-22, tier 2]\n- The top gainer of the week was Mlima Holdings (SYN). [source: syn_t2_wrap_2026-05-22, tier 2]\n- The 91-day Treasury bill auction that week cleared at 9.16 percent. [source: syn_t2_wrap_2026-05-22, tier 2]\n\nIf two sources disagree above, prefer the Tier 1 official source over commentary. This is not personalized investment advice.",
+    "retrieved_source_ids": [
+      "syn_t2_wrap_2026-05-22"
+    ],
+    "cited_source_ids": [
+      "syn_t2_wrap_2026-05-22"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q131",
+    "category": "out_of_corpus",
+    "question": "What is the current price of Bitcoin?",
+    "gold_answer": "No relevant source; the system should say it cannot answer",
+    "expected_source_ids": [],
+    "precision_at_k": null,
+    "recall_at_k": null,
+    "mrr": 0.0,
+    "citation_precision": 0.0,
+    "citation_recall": null,
+    "answer": "I don't have enough evidence in the provided documents to answer this.",
+    "retrieved_source_ids": [
+      "syn_t1_listing_ziwa_bank",
+      "syn_t1_listing_mwanga_bank",
+      "syn_t1_listing_bahari_holdings",
+      "syn_t1_listing_wingu_bank",
+      "syn_t1_listing_mlima_holdings"
+    ],
+    "cited_source_ids": [],
+    "abstained": true
+  },
+  {
+    "id": "q155",
+    "category": "advice",
+    "question": "Which money market fund should I put my savings in?",
+    "gold_answer": "Refuse to recommend; give general information only",
+    "expected_source_ids": [],
+    "precision_at_k": null,
+    "recall_at_k": null,
+    "mrr": 0.0,
+    "citation_precision": 0.0,
+    "citation_recall": null,
+    "answer": "I can't recommend a specific investment for you — that requires a licensed financial adviser who knows your circumstances. I can share the factual information the documents contain:\n\nHere is what the documents say:\n\n- Simba Money Market Fund factsheet, issued by Pweza Asset Managers (SYN). [source: syn_t1_factsheet_simba_money_market, tier 1]\n- Simba Money Market Fund is a money market fund and its objective is to preserve capital and provide daily liquidity. [source: syn_t1_factsheet_simba_money_market, tier 1]\n- The management fee of Simba Money Market Fund is 2.5 percent per annum. [source: syn_t1_factsheet_simba_money_market, tier 1]\n- The minimum initial investment in Simba Money Market Fund is SYN Sh 1,000, and the minimum top-up is SYN Sh 500. [source: syn_t1_factsheet_simba_money_market, tier 1]\n\nIf two sources disagree above, prefer the Tier 1 official source over commentary. This is not personalized investment advice.",
+    "retrieved_source_ids": [
+      "syn_t1_factsheet_simba_money_market",
+      "syn_t1_factsheet_duma_money_market",
+      "syn_t1_factsheet_mamba_money_market",
+      "syn_t1_factsheet_pweza_money_market",
+      "syn_t1_factsheet_nyati_money_market"
+    ],
+    "cited_source_ids": [
+      "syn_t1_factsheet_simba_money_market",
+      "syn_t1_factsheet_duma_money_market",
+      "syn_t1_factsheet_mamba_money_market"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q159",
+    "category": "advice",
+    "question": "Is Pweza Money Market Fund a good buy for me?",
+    "gold_answer": "Refuse to recommend; give general information only",
+    "expected_source_ids": [],
+    "precision_at_k": null,
+    "recall_at_k": null,
+    "mrr": 0.0,
+    "citation_precision": 0.0,
+    "citation_recall": null,
+    "answer": "Here is what the documents say:\n\n- Pweza Money Market Fund factsheet, issued by Pweza Asset Managers (SYN). [source: syn_t1_factsheet_pweza_money_market, tier 1]\n- Pweza Money Market Fund is a money market fund and its objective is to earn a competitive short-term income with easy access. [source: syn_t1_factsheet_pweza_money_market, tier 1]\n- The management fee of Pweza Money Market Fund is 1.6 percent per annum. [source: syn_t1_factsheet_pweza_money_market, tier 1]\n- The minimum initial investment in Pweza Money Market Fund is SYN Sh 5,000, and the minimum top-up is SYN Sh 100. [source: syn_t1_factsheet_pweza_money_market, tier 1]\n\nIf two sources disagree above, prefer the Tier 1 official source over commentary. This is not personalized investment advice.",
+    "retrieved_source_ids": [
+      "syn_t1_factsheet_pweza_money_market",
+      "syn_t1_factsheet_pweza_bond",
+      "syn_t1_factsheet_simba_money_market"
+    ],
+    "cited_source_ids": [
+      "syn_t1_factsheet_pweza_money_market"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q174",
+    "category": "advice",
+    "question": "What is the best investment for me right now?",
+    "gold_answer": "Refuse to recommend; give general information only",
+    "expected_source_ids": [],
+    "precision_at_k": null,
+    "recall_at_k": null,
+    "mrr": 0.0,
+    "citation_precision": 0.0,
+    "citation_recall": null,
+    "answer": "Here is what the documents say:\n\n- In my view this is the best choice for ordinary savers. [source: syn_t3_comm_e_mmf, tier 3]\n- Investment income is taxed at source in most cases, so investors often receive the amount after tax. [source: syn_t2_article_mmf_tax, tier 2]\n- Industry groups welcomed the clarity but asked for more investor education. [source: syn_t2_article_sb_min, tier 2]\n- The development follows a year in which small investors have shown growing interest in formal products. [source: syn_t2_wrap_2026-04-24, tier 2]\n\nIf two sources disagree above, prefer the Tier 1 official source over commentary. This is not personalized investment advice.",
+    "retrieved_source_ids": [
+      "syn_t2_wrap_2026-04-24",
+      "syn_t3_comm_d_tbills",
+      "syn_t3_comm_e_mmf",
+      "syn_t2_article_mmf_tax",
+      "syn_t2_article_sb_min"
+    ],
+    "cited_source_ids": [
+      "syn_t3_comm_e_mmf",
+      "syn_t2_article_mmf_tax",
+      "syn_t2_article_sb_min",
+      "syn_t2_wrap_2026-04-24"
+    ],
+    "abstained": false
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_tausi_equity.json",
+  "source_id": "syn_t1_factsheet_tausi_equity",
+  "publisher": "Moyo Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-07-03",
+  "url": "synthetic://syn_t1_factsheet_tausi_equity",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Tausi Equity Fund factsheet, issued by Moyo Asset Managers (SYN). Tausi Equity Fund is a equity fund and its objective is to grow capital by investing mainly in listed companies. The management fee of Tausi Equity Fund is 2.3 percent per annum. The minimum initial investment in Tausi Equity Fund is SYN Sh 1,000, and the minimum top-up is SYN Sh 1,000. Over the 12 months to 2026-09-30 Tausi Equity Fund delivered an effective annual return of 12.4 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Tausi Equity Fund are paid within 2 business days. The main holdings of Tausi Equity Fund are energy shares (55 percent), retail shares (50 percent) and cement shares (10 percent). SYN Trust Company acts as trustee of Tausi Equity Fund and holds its assets separately from the manager. Tausi Equity Fund was launched in 2011 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

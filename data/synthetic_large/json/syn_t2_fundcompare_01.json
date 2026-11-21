@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_fundcompare_01.json",
+  "source_id": "syn_t2_fundcompare_01",
+  "publisher": "SYN Daily Ledger",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "funds",
+  "doc_type": "news_article",
+  "published_date": "2026-08-01",
+  "url": "synthetic://syn_t2_fundcompare_01",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Daily Ledger compares fund performance over the past year. Officials declined to comment on whether further changes were planned. The development follows a year in which small investors have shown growing interest in formal products. The Kifaru Bond Fund charged 1.9 percent a year, with a minimum of SYN Sh 1,000. The Chui Equity Fund charged 3.0 percent a year, with a minimum of SYN Sh 500."
+    },
+    {
+      "page": 2,
+      "text": "The Jua Balanced Fund charged 1.9 percent a year, with a minimum of SYN Sh 5,000. The Duma Money Market Fund charged 1.4 percent a year, with a minimum of SYN Sh 500. The Twiga Equity Fund charged 2.4 percent a year, with a minimum of SYN Sh 1,000. The Kasuku Equity Fund charged 2.1 percent a year, with a minimum of SYN Sh 500. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

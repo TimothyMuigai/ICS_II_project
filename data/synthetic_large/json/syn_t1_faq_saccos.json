@@ -1,0 +1,18 @@
+{
+  "document": "syn_t1_faq_saccos.json",
+  "source_id": "syn_t1_faq_saccos",
+  "publisher": "SYN SACCO Societies Authority",
+  "author": "",
+  "tier": 1,
+  "topic": "saccos",
+  "doc_type": "faq",
+  "published_date": "2026-07-28",
+  "url": "synthetic://syn_t1_faq_saccos",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Frequently asked questions about SACCOs, published by the SYN SACCO Societies Authority. Question: How much of a member's deposits does the SACCO Deposit Fund cover? Answer: Up to SYN Sh 250,000 per member. Question: What is the minimum share capital to join a SACCO? Answer: SYN Sh 5,000. These answers are updated whenever the rules change. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

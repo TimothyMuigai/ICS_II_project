@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_e_tbonds.json",
+  "source_id": "syn_t3_comm_e_tbonds",
+  "publisher": "Commentator E (SYN)",
+  "author": "Commentator E (SYN)",
+  "tier": 3,
+  "topic": "tbonds",
+  "doc_type": "commentary",
+  "published_date": "2026-03-28",
+  "url": "synthetic://syn_t3_comm_e_tbonds",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Let me be honest with you. I want to talk about Treasury bonds today. In my view this is the best choice for ordinary savers. I am strongly positive about it and tell everyone I know. Treasury bonds start at just SYN Sh 10,000, so anyone can join."
+    },
+    {
+      "page": 2,
+      "text": "A bond is issued for a stated number of years and returns the face value on maturity. The coupon rate is announced in the auction prospectus and does not change over the life of the bond. Do your own research before you act. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

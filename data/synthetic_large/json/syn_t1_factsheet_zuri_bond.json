@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_zuri_bond.json",
+  "source_id": "syn_t1_factsheet_zuri_bond",
+  "publisher": "Nyota Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-09-18",
+  "url": "synthetic://syn_t1_factsheet_zuri_bond",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Zuri Bond Fund factsheet, issued by Nyota Asset Managers (SYN). Zuri Bond Fund is a bond fund and its objective is to generate regular income from government and corporate bonds. The management fee of Zuri Bond Fund is 2.3 percent per annum. The minimum initial investment in Zuri Bond Fund is SYN Sh 500, and the minimum top-up is SYN Sh 100. Over the 12 months to 2026-09-30 Zuri Bond Fund delivered an effective annual yield of 13.9 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Zuri Bond Fund are paid within 1 business days. The main holdings of Zuri Bond Fund are Treasury bonds (55 percent), infrastructure bonds (35 percent) and bond-like fixed deposits (15 percent). Bara Custodial (SYN) acts as trustee of Zuri Bond Fund and holds its assets separately from the manager. Zuri Bond Fund was launched in 2012 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

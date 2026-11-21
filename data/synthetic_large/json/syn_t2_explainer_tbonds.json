@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_explainer_tbonds.json",
+  "source_id": "syn_t2_explainer_tbonds",
+  "publisher": "SYN Market Wire",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "tbonds",
+  "doc_type": "news_article",
+  "published_date": "2026-03-04",
+  "url": "synthetic://syn_t2_explainer_tbonds",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Market Wire explains how Treasury bonds work for ordinary savers. The development follows a year in which small investors have shown growing interest in formal products. Analysts at several brokerages said they expected conditions to stay stable through the quarter. Trading volumes were broadly in line with the previous month, according to exchange data. According to the regulator, bond auctions accept bids from SYN Sh 100,000 upwards."
+    },
+    {
+      "page": 2,
+      "text": "According to the regulator, interest on a Treasury bond is paid twice a year, at six-month intervals. The coupon rate is announced in the auction prospectus and does not change over the life of the bond. Bond prices on the secondary market move up when market yields fall and down when they rise. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_pweza_money_market.json",
+  "source_id": "syn_t1_factsheet_pweza_money_market",
+  "publisher": "Pweza Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-08-03",
+  "url": "synthetic://syn_t1_factsheet_pweza_money_market",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Pweza Money Market Fund factsheet, issued by Pweza Asset Managers (SYN). Pweza Money Market Fund is a money market fund and its objective is to earn a competitive short-term income with easy access. The management fee of Pweza Money Market Fund is 1.6 percent per annum. The minimum initial investment in Pweza Money Market Fund is SYN Sh 5,000, and the minimum top-up is SYN Sh 100. Over the 12 months to 2026-09-30 Pweza Money Market Fund delivered an effective annual yield of 7.2 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Pweza Money Market Fund are paid within 3 business days. The main holdings of Pweza Money Market Fund are commercial paper (25 percent), call deposits (20 percent) and short-dated government paper (10 percent). Pwani Trustees (SYN) acts as trustee of Pweza Money Market Fund and holds its assets separately from the manager. Pweza Money Market Fund was launched in 2017 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

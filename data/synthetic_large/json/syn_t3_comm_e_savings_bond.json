@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_e_savings_bond.json",
+  "source_id": "syn_t3_comm_e_savings_bond",
+  "publisher": "Commentator E (SYN)",
+  "author": "Commentator E (SYN)",
+  "tier": 3,
+  "topic": "savings_bond",
+  "doc_type": "commentary",
+  "published_date": "2025-06-17",
+  "url": "synthetic://syn_t3_comm_e_savings_bond",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Here is what I tell my followers. I want to talk about the Sokoni Savings Bond today. In my view this is the best choice for ordinary savers. I am strongly positive about it and tell everyone I know. Sokoni bonds need only SYN Sh 500 to start."
+    },
+    {
+      "page": 2,
+      "text": "Interest is paid periodically and the face value is returned on maturity. The bond is issued in monthly series with a fixed interest rate for each series. Leave your comments below and I will reply. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

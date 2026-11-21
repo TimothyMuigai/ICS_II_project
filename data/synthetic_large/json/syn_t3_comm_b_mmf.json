@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_b_mmf.json",
+  "source_id": "syn_t3_comm_b_mmf",
+  "publisher": "Commentator B (SYN)",
+  "author": "Commentator B (SYN)",
+  "tier": 3,
+  "topic": "mmf",
+  "doc_type": "commentary",
+  "published_date": "2025-09-10",
+  "url": "synthetic://syn_t3_comm_b_mmf",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Many people ask me about this. I want to talk about money market funds today. Take a patient long-term view and hold on. Reinvest your earnings every year and let time do the work. Money market funds are guaranteed, so you cannot lose a single shilling."
+    },
+    {
+      "page": 2,
+      "text": "Funds are licensed and supervised, and their assets are held by an independent trustee. Investors should compare the net yield after fees rather than the headline yield. This is only my opinion and you must decide for yourself. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

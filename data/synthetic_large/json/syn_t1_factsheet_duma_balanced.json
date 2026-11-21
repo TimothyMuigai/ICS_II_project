@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_duma_balanced.json",
+  "source_id": "syn_t1_factsheet_duma_balanced",
+  "publisher": "Nyota Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-09-22",
+  "url": "synthetic://syn_t1_factsheet_duma_balanced",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Duma Balanced Fund factsheet, issued by Nyota Asset Managers (SYN). Duma Balanced Fund is a balanced fund and its objective is to combine income and growth through a mix of bonds and shares. The management fee of Duma Balanced Fund is 1.8 percent per annum. The minimum initial investment in Duma Balanced Fund is SYN Sh 500, and the minimum top-up is SYN Sh 100. Over the 12 months to 2026-09-30 Duma Balanced Fund delivered an effective annual yield of 14.2 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Duma Balanced Fund are paid within 1 business days. The main holdings of Duma Balanced Fund are Treasury bonds (35 percent), REIT units (30 percent) and corporate bonds (20 percent). SYN Trust Company acts as trustee of Duma Balanced Fund and holds its assets separately from the manager. Duma Balanced Fund was launched in 2016 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

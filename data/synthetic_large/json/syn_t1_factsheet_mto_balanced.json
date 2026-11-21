@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_mto_balanced.json",
+  "source_id": "syn_t1_factsheet_mto_balanced",
+  "publisher": "Kilele Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-08-21",
+  "url": "synthetic://syn_t1_factsheet_mto_balanced",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Mto Balanced Fund factsheet, issued by Kilele Asset Managers (SYN). Mto Balanced Fund is a balanced fund and its objective is to combine income and growth through a mix of bonds and shares. The management fee of Mto Balanced Fund is 2.0 percent per annum. The minimum initial investment in Mto Balanced Fund is SYN Sh 1,000, and the minimum top-up is SYN Sh 1,000. Over the 12 months to 2026-09-30 Mto Balanced Fund delivered an effective annual yield of 13.6 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Mto Balanced Fund are paid within 1 business days. The main holdings of Mto Balanced Fund are bank shares (55 percent), Treasury bonds (35 percent) and fixed deposits (30 percent). Bara Custodial (SYN) acts as trustee of Mto Balanced Fund and holds its assets separately from the manager. Mto Balanced Fund was launched in 2017 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

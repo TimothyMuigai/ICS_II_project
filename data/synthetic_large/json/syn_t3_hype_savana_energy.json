@@ -1,0 +1,18 @@
+{
+  "document": "syn_t3_hype_savana_energy.json",
+  "source_id": "syn_t3_hype_savana_energy",
+  "publisher": "Commentator B (SYN)",
+  "author": "Commentator B (SYN)",
+  "tier": 3,
+  "topic": "equities",
+  "doc_type": "social_post",
+  "published_date": "2026-07-21",
+  "url": "synthetic://syn_t3_hype_savana_energy",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Let me be honest with you. Savana Energy (SYN) is about to pay a dividend of SYN Sh 8.90, mark my words. Insiders are buying and the price can only go one way. I am putting everything I have into it. This is only my opinion and you must decide for yourself. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

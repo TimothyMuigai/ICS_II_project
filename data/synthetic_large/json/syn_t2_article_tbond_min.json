@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_article_tbond_min.json",
+  "source_id": "syn_t2_article_tbond_min",
+  "publisher": "SYN Finance Weekly",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "tbonds",
+  "doc_type": "news_article",
+  "published_date": "2024-03-05",
+  "url": "synthetic://syn_t2_article_tbond_min",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Finance Weekly, 2024-03-05. The minimum bond bid is SYN Sh 50,000. Market participants said the move reflected steady demand from retail and institutional investors. Analysts at several brokerages said they expected conditions to stay stable through the quarter. Industry groups welcomed the clarity but asked for more investor education. Bond prices on the secondary market move up when market yields fall and down when they rise."
+    },
+    {
+      "page": 2,
+      "text": "Infrastructure bonds are a separate series issued to fund public projects. The figures above were correct at the time of publication and may change in future. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

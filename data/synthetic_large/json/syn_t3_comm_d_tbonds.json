@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_d_tbonds.json",
+  "source_id": "syn_t3_comm_d_tbonds",
+  "publisher": "Commentator D (SYN)",
+  "author": "Commentator D (SYN)",
+  "tier": 3,
+  "topic": "tbonds",
+  "doc_type": "commentary",
+  "published_date": "2026-05-26",
+  "url": "synthetic://syn_t3_comm_d_tbonds",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Let me be honest with you. I want to talk about Treasury bonds today. Take a patient long-term view and hold on. Reinvest your earnings every year and let time do the work. The coupon rate is announced in the auction prospectus and does not change over the life of the bond."
+    },
+    {
+      "page": 2,
+      "text": "Infrastructure bonds are a separate series issued to fund public projects. Leave your comments below and I will reply. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_kiboko_balanced.json",
+  "source_id": "syn_t1_factsheet_kiboko_balanced",
+  "publisher": "Mto Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-07-30",
+  "url": "synthetic://syn_t1_factsheet_kiboko_balanced",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Kiboko Balanced Fund factsheet, issued by Mto Asset Managers (SYN). Kiboko Balanced Fund is a balanced fund and its objective is to provide moderate growth with lower volatility than shares alone. The management fee of Kiboko Balanced Fund is 2.4 percent per annum. The minimum initial investment in Kiboko Balanced Fund is SYN Sh 500, and the minimum top-up is SYN Sh 1,000. Over the 12 months to 2026-09-30 Kiboko Balanced Fund delivered an effective annual yield of 14.6 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Kiboko Balanced Fund are paid within 2 business days. The main holdings of Kiboko Balanced Fund are bank shares (50 percent), Treasury bonds (45 percent) and corporate bonds (35 percent). Bara Custodial (SYN) acts as trustee of Kiboko Balanced Fund and holds its assets separately from the manager. Kiboko Balanced Fund was launched in 2021 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

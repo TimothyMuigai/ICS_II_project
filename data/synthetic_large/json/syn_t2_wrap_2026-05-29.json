@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_wrap_2026-05-29.json",
+  "source_id": "syn_t2_wrap_2026-05-29",
+  "publisher": "SYN Market Wire",
+  "author": "Markets desk",
+  "tier": 2,
+  "topic": "markets",
+  "doc_type": "weekly_wrap",
+  "published_date": "2026-05-29",
+  "url": "synthetic://syn_t2_wrap_2026-05-29",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Market Wire weekly wrap for the week ending 2026-05-29. The SSE All-Share Index closed the week ending 2026-05-29 at 2,074.21 points. The 91-day Treasury bill auction that week cleared at 8.69 percent. Weekly turnover on the exchange was SYN Sh 460 million. The top gainer of the week was Savana Energy (SYN)."
+    },
+    {
+      "page": 2,
+      "text": "Analysts at several brokerages said they expected conditions to stay stable through the quarter. The development follows a year in which small investors have shown growing interest in formal products. Industry groups welcomed the clarity but asked for more investor education. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

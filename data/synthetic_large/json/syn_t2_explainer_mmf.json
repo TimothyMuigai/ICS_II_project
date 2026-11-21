@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_explainer_mmf.json",
+  "source_id": "syn_t2_explainer_mmf",
+  "publisher": "SYN Daily Ledger",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "mmf",
+  "doc_type": "news_article",
+  "published_date": "2026-07-06",
+  "url": "synthetic://syn_t2_explainer_mmf",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Daily Ledger explains how money market funds work for ordinary savers. Analysts at several brokerages said they expected conditions to stay stable through the quarter. Industry groups welcomed the clarity but asked for more investor education. The development follows a year in which small investors have shown growing interest in formal products. According to the regulator, no regulator or government guarantees the value of a money market fund unit."
+    },
+    {
+      "page": 2,
+      "text": "According to the regulator, fund managers are required to pay out withdrawal requests within 2 business days. Managers publish a factsheet each month showing the yield, the fees and the main holdings. Returns are earned daily and the quoted yield is an annualised figure that changes with market rates. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

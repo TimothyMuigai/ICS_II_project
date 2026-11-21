@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_explainer_savings_bond.json",
+  "source_id": "syn_t2_explainer_savings_bond",
+  "publisher": "SYN Business Review",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "savings_bond",
+  "doc_type": "news_article",
+  "published_date": "2026-07-19",
+  "url": "synthetic://syn_t2_explainer_savings_bond",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Business Review explains how the Sokoni Savings Bond work for ordinary savers. Officials declined to comment on whether further changes were planned. Analysts at several brokerages said they expected conditions to stay stable through the quarter. Industry groups welcomed the clarity but asked for more investor education. According to the regulator, a Sokoni Savings Bond can be bought from SYN Sh 3,000."
+    },
+    {
+      "page": 2,
+      "text": "According to the regulator, no tax is deducted from Sokoni Savings Bond interest. The Sokoni Savings Bond is a small-ticket government bond designed for new and small investors. It can be bought and managed from a mobile phone through registered agents. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

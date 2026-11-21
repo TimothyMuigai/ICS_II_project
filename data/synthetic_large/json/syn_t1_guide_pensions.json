@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_guide_pensions.json",
+  "source_id": "syn_t1_guide_pensions",
+  "publisher": "SYN Retirement Benefits Authority",
+  "author": "",
+  "tier": 1,
+  "topic": "pensions",
+  "doc_type": "investor_guide",
+  "published_date": "2026-02-10",
+  "url": "synthetic://syn_t1_guide_pensions",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "A retirement scheme collects contributions during working life and pays benefits in retirement. Schemes may be occupational, individual or umbrella arrangements run by licensed trustees. Contributions are invested and the value of a member's account depends on investment performance. Members receive an annual statement showing contributions, fees and the account balance. Early withdrawal before the permitted age is restricted."
+    },
+    {
+      "page": 2,
+      "text": "Members may withdraw their retirement benefits from age 55. Pension contributions are tax deductible up to SYN Sh 20,000 per month. This guide was issued by the SYN Retirement Benefits Authority for retail investors and is reviewed every year. Readers who need advice on retirement schemes should consult a licensed adviser, because this guide gives information only. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

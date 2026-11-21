@@ -1,0 +1,18 @@
+{
+  "document": "syn_t2_analyst_wingu_cement.json",
+  "source_id": "syn_t2_analyst_wingu_cement",
+  "publisher": "SYN Market Wire",
+  "author": "Equity desk",
+  "tier": 2,
+  "topic": "equities",
+  "doc_type": "analyst_note",
+  "published_date": "2026-08-19",
+  "url": "synthetic://syn_t2_analyst_wingu_cement",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Market Wire analyst note on Wingu Cement (SYN). The analyst set a twelve-month target price of SYN Sh 28.71 for WIN7. The note cites steady demand in the cement sector and cost control at Wingu Cement (SYN). Officials declined to comment on whether further changes were planned. Analysts at several brokerages said they expected conditions to stay stable through the quarter. The development follows a year in which small investors have shown growing interest in formal products. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

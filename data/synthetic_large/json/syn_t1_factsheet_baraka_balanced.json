@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_baraka_balanced.json",
+  "source_id": "syn_t1_factsheet_baraka_balanced",
+  "publisher": "Pweza Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-07-22",
+  "url": "synthetic://syn_t1_factsheet_baraka_balanced",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Baraka Balanced Fund factsheet, issued by Pweza Asset Managers (SYN). Baraka Balanced Fund is a balanced fund and its objective is to provide moderate growth with lower volatility than shares alone. The management fee of Baraka Balanced Fund is 2.4 percent per annum. The minimum initial investment in Baraka Balanced Fund is SYN Sh 5,000, and the minimum top-up is SYN Sh 1,000. Over the 12 months to 2026-09-30 Baraka Balanced Fund delivered an effective annual yield of 13.4 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Baraka Balanced Fund are paid within 3 business days. The main holdings of Baraka Balanced Fund are corporate bonds (40 percent), REIT units (35 percent) and Treasury bonds (10 percent). Pwani Trustees (SYN) acts as trustee of Baraka Balanced Fund and holds its assets separately from the manager. Baraka Balanced Fund was launched in 2012 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

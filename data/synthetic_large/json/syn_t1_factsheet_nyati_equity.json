@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_nyati_equity.json",
+  "source_id": "syn_t1_factsheet_nyati_equity",
+  "publisher": "Jua Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-07-26",
+  "url": "synthetic://syn_t1_factsheet_nyati_equity",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Nyati Equity Fund factsheet, issued by Jua Asset Managers (SYN). Nyati Equity Fund is a equity fund and its objective is to achieve long-term capital growth from listed shares. The management fee of Nyati Equity Fund is 2.2 percent per annum. The minimum initial investment in Nyati Equity Fund is SYN Sh 5,000, and the minimum top-up is SYN Sh 100. Over the 12 months to 2026-09-30 Nyati Equity Fund delivered an effective annual return of 11.5 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Nyati Equity Fund are paid within 1 business days. The main holdings of Nyati Equity Fund are energy shares (50 percent), cement shares (35 percent) and telecom shares (20 percent). Pwani Trustees (SYN) acts as trustee of Nyati Equity Fund and holds its assets separately from the manager. Nyati Equity Fund was launched in 2009 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

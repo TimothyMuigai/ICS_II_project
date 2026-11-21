@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cma01",
+    "category": "official_fact",
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "mrr": 0.0,
+    "answer": "Here is what the documents say:\n\n- Your investment advisor, be they an investment bank, a stockbroker or any other firm advising you on investment must be a licensee of the Capital Markets Authority (CMA). [source: Investor-Protection, tier 2]\n- What specific tools does CMA implement to ensure investor protection for the Diaspora in addition to the above? [source: Investor-Protection, tier 2]\n- It is this account you will be referring to find out what transaction have been made by the stockbroker on your behalf. [source: Investor-Protection, tier 2]\n- • Online Complaints Portal on the CMA website. [source: Investor-Protection, tier 2]\n\nIf two sources disagree above, prefer the Tier 1 official source over commentary. This is not personalized investment advice.",
+    "retrieved_source_ids": [
+      "Investor-Protection"
+    ],
+    "cited_source_ids": [
+      "Investor-Protection"
+    ],
+    "abstained": false,
+    "must_abstain": false,
+    "abstention_correct": "yes"
+  },
+  {
+    "id": "cma02",
+    "category": "official_fact",
+    "precision_at_k": 0.5,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "answer": "Here is what the documents say:\n\n- - Open a Central Depository System (CDS) account • A Central Depository System (CDS) is a computer system operated by Central Depository and Settlement Corporation (CDSC), which facilitates holding of securities in electronic accounts opened by shareholders. [source: CMA-Beginners-guide, tier 1]\n- Open a Central Depository System (CDS) account - A Central Depository System (CDS) is a computer system operated by Central Depository and Settlement Corporation (CDSC), which facilitates holding of securities in electronic accounts opened by shareholders. [source: Investor-Protection, tier 2]\n- - How to open a CDS Account • You open a CDS account by completing and signing a securities account opening/maintenance form with your Central Depository Agent (CDA), providing two recent passport size photographs and a photocopy of your national identity card. [source: CMA-Beginners-guide, tier 1]\n- A CDA is a central depository agent, either a Stockbroker an Investment Bank or a Custodian Bank, who has been authorized by Central Depositary and Settlement Corporation (CDSC) to open CDS accounts on behalf of invetsors. [source: CMA-Beginners-guide, tier 1]\n\nIf two sources disagree above, prefer the Tier 1 official source over commentary. This is not personalized investment advice.",
+    "retrieved_source_ids": [
+      "CMA-Beginners-guide",
+      "Investor-Protection"
+    ],
+    "cited_source_ids": [
+      "CMA-Beginners-guide",
+      "Investor-Protection"
+    ],
+    "abstained": false,
+    "must_abstain": false,
+    "abstention_correct": "yes"
+  },
+  {
+    "id": "cma03",
+    "category": "official_fact",
+    "precision_at_k": 0.5,
+    "recall_at_k": 1.0,
+    "mrr": 0.5,
+    "answer": "Here is what the documents say:\n\n- What specific tools does CMA implement to ensure investor protection for the Diaspora in addition to the above? [source: Investor-Protection, tier 2]\n- constitute investment, tax, legal, or any other • If in doubt please contact Capital Markets Authority, call), or the Nairobi Stock Exchange (NSE) at 2230692 • Ask questions TALK TO CMA As a wise investor, you should know your rights and responsi- bilities. [source: CMA-Beginners-guide, tier 1]\n- INVESTOR PROTECTION INTRODUCTION The Capital Markets Authority (CMA) was set up in 1989 through an Act of Parliament Cap. [source: Investor-Protection, tier 2]\n- Box 74800 – 00200, NRB Telephone: +254 -20 – 2264900|+254 - 20 – 2710789, 2710775 +254-722 2221910 Fax: 254 - 020 – 2228254 Email:corporate@cma.or.ke Website: www.cma.or.ke Disclaimer This brochure is by no means a conclusive document. [source: CMA-Beginners-guide, tier 1]\n\nIf two sources disagree above, prefer the Tier 1 official source over commentary. This is not personalized investment advice.",
+    "retrieved_source_ids": [
+      "CMA-Beginners-guide",
+      "Investor-Protection"
+    ],
+    "cited_source_ids": [
+      "Investor-Protection",
+      "CMA-Beginners-guide"
+    ],
+    "abstained": false,
+    "must_abstain": false,
+    "abstention_correct": "yes"
+  },
+  {
+    "id": "cma04",
+    "category": "official_fact",
+    "precision_at_k": 0.5,
+    "recall_at_k": 1.0,
+    "mrr": 0.5,
+    "answer": "Here is what the documents say:\n\n- The CMA is a statutory agency charged with the prime responsibility of regulating the development of orderly, fair and efficient capital markets in Kenya, with a view of promoting market integrity and inves- tor confidence. [source: Investor-Protection, tier 2]\n- constitute investment, tax, legal, or any other • If in doubt please contact Capital Markets Authority, call), or the Nairobi Stock Exchange (NSE) at 2230692 • Ask questions TALK TO CMA As a wise investor, you should know your rights and responsi- bilities. [source: CMA-Beginners-guide, tier 1]\n- For more information or clari/f_ication on Collective Investment Schemes, please refer to our regulations on the same which are available at our website: www.cma.or.ke BEGINNERS GUIDE TO INVESTING IN CAPITAL MARKETS [source: CMA-Beginners-guide, tier 1]\n- This is the role played by the Capital Markets Authority in ensuring that local, foreign and Diaspora investors’ funds and interests are secured across the capital markets industry in Kenya. [source: Investor-Protection, tier 2]\n\nIf two sources disagree above, prefer the Tier 1 official source over commentary. This is not personalized investment advice.",
+    "retrieved_source_ids": [
+      "CMA-Beginners-guide",
+      "Investor-Protection"
+    ],
+    "cited_source_ids": [
+      "Investor-Protection",
+      "CMA-Beginners-guide"
+    ],
+    "abstained": false,
+    "must_abstain": false,
+    "abstention_correct": "yes"
+  },
+  {
+    "id": "cma05",
+    "category": "out_of_corpus",
+    "precision_at_k": null,
+    "recall_at_k": null,
+    "mrr": 0.0,
+    "answer": "I don't have enough evidence in the provided documents to answer this.",
+    "retrieved_source_ids": [
+      "CMA-Beginners-guide",
+      "Investor-Protection"
+    ],
+    "cited_source_ids": [],
+    "abstained": true,
+    "must_abstain": true,
+    "abstention_correct": "yes"
+  }
+]

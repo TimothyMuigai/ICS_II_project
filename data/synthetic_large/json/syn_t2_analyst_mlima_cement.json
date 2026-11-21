@@ -1,0 +1,18 @@
+{
+  "document": "syn_t2_analyst_mlima_cement.json",
+  "source_id": "syn_t2_analyst_mlima_cement",
+  "publisher": "SYN Finance Weekly",
+  "author": "Equity desk",
+  "tier": 2,
+  "topic": "equities",
+  "doc_type": "analyst_note",
+  "published_date": "2026-09-19",
+  "url": "synthetic://syn_t2_analyst_mlima_cement",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Finance Weekly analyst note on Mlima Cement (SYN). The analyst set a twelve-month target price of SYN Sh 48.02 for MLI3. The note cites steady demand in the cement sector and cost control at Mlima Cement (SYN). Analysts at several brokerages said they expected conditions to stay stable through the quarter. Trading volumes were broadly in line with the previous month, according to exchange data. Market participants said the move reflected steady demand from retail and institutional investors. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

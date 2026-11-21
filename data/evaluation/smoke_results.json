@@ -1,0 +1,518 @@
+[
+  {
+    "id": "q001",
+    "category": "official_fact",
+    "question": "What is the minimum bid for a Treasury bill?",
+    "gold_answer": "SYN Sh 40,000",
+    "expected_source_ids": [
+      "syn_t1_guide_tbills"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 1.0,
+    "citation_recall": 1.0,
+    "answer": "The minimum bid for a Treasury bill is SYN Sh 40,000 [ source: syn_t1_guide_tbills ].",
+    "retrieved_source_ids": [
+      "syn_t1_guide_tbills",
+      "syn_t1_guide_tbonds",
+      "syn_t1_faq_tbills",
+      "syn_t2_explainer_tbills"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_tbills"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q002",
+    "category": "official_fact",
+    "question": "What maturities do Treasury bills come in?",
+    "gold_answer": "91, 182 and 364 days",
+    "expected_source_ids": [
+      "syn_t1_guide_tbills"
+    ],
+    "precision_at_k": 0.3333333333333333,
+    "recall_at_k": 1.0,
+    "mrr": 0.5,
+    "citation_precision": 0.5,
+    "citation_recall": 1.0,
+    "answer": "Treasury bills are issued with maturities of 91 days, 182 days and 364 days [ source: syn_t1_faq_tbills ]. The same maturities are confirmed in the Central Bank’s guide for retail investors [ source: syn_t1_guide_tbills ].",
+    "retrieved_source_ids": [
+      "syn_t1_faq_tbills",
+      "syn_t1_guide_tbills",
+      "syn_t1_guide_tbonds"
+    ],
+    "cited_source_ids": [
+      "syn_t1_faq_tbills",
+      "syn_t1_guide_tbills"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q003",
+    "category": "official_fact",
+    "question": "Can Treasury bills be sold before maturity?",
+    "gold_answer": "Yes, on the secondary market",
+    "expected_source_ids": [
+      "syn_t1_guide_tbills"
+    ],
+    "precision_at_k": 0.3333333333333333,
+    "recall_at_k": 1.0,
+    "mrr": 0.5,
+    "citation_precision": 0.5,
+    "citation_recall": 1.0,
+    "answer": "Yes. Treasury bills can be sold before they mature by trading them on the secondary market through a licensed broker [source: syn_t1_faq_tbills]. [source: syn_t1_guide_tbills].",
+    "retrieved_source_ids": [
+      "syn_t1_faq_tbills",
+      "syn_t1_guide_tbills",
+      "syn_t1_guide_tbonds"
+    ],
+    "cited_source_ids": [
+      "syn_t1_faq_tbills",
+      "syn_t1_guide_tbills"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q004",
+    "category": "official_fact",
+    "question": "What is the minimum bid for a Treasury bond?",
+    "gold_answer": "SYN Sh 100,000",
+    "expected_source_ids": [
+      "syn_t1_guide_tbonds"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 1.0,
+    "citation_recall": 1.0,
+    "answer": "The minimum bid for a Treasury bond is SYN Sh 100,000, with subsequent bids made in multiples of SYN Sh 50,000 thereafter【source: syn_t1_guide_tbonds】.",
+    "retrieved_source_ids": [
+      "syn_t1_guide_tbonds",
+      "syn_t1_guide_tbills",
+      "syn_t1_faq_tbills",
+      "syn_t1_guide_savings_bond"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_tbonds"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q005",
+    "category": "official_fact",
+    "question": "How often do Treasury bonds pay interest?",
+    "gold_answer": "Every six months",
+    "expected_source_ids": [
+      "syn_t1_guide_tbonds"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 1.0,
+    "citation_recall": 1.0,
+    "answer": "Treasury bonds pay interest every six months (semi‑annually) until maturity【source: syn_t1_guide_tbonds】.",
+    "retrieved_source_ids": [
+      "syn_t1_guide_tbonds",
+      "syn_t1_faq_tbonds",
+      "syn_t1_faq_tbills",
+      "syn_t2_explainer_tbonds"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_tbonds"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q006",
+    "category": "official_fact",
+    "question": "Are money market funds guaranteed?",
+    "gold_answer": "No, not guaranteed",
+    "expected_source_ids": [
+      "syn_t1_guide_mmf"
+    ],
+    "precision_at_k": 0.2,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 0.5,
+    "citation_recall": 1.0,
+    "answer": "Money market funds are **not guaranteed**; investors can lose part of their capital and the value of units can fall [ source: syn_t1_guide_mmf ]. The SYN Capital Markets Authority’s FAQ also confirms that money market funds are “No, not guaranteed” [ source: syn_t1_faq_mmf ].",
+    "retrieved_source_ids": [
+      "syn_t1_guide_mmf",
+      "syn_t1_faq_mmf",
+      "syn_t1_factsheet_duma_money_market",
+      "syn_t1_factsheet_mamba_money_market",
+      "syn_t1_factsheet_simba_money_market"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_mmf",
+      "syn_t1_faq_mmf"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q007",
+    "category": "official_fact",
+    "question": "How long does it take to withdraw from a money market fund?",
+    "gold_answer": "Within 2 business days",
+    "expected_source_ids": [
+      "syn_t1_guide_mmf"
+    ],
+    "precision_at_k": 0.2,
+    "recall_at_k": 1.0,
+    "mrr": 0.5,
+    "citation_precision": 0.2,
+    "citation_recall": 1.0,
+    "answer": "The standard rule for money‑market‑fund redemptions in Kenya is that withdrawals must be paid **within 2 business days** of the request【source: syn_t1_faq_mmf】. This is also confirmed in the Capital Markets Authority’s guide for retail investors, which states that “money market fund redemptions must be paid within 2 business days of the request”【source: syn_t1_guide_mmf】.\n\nHowever, individual funds may set their own processing times that differ from the general rule. For example:  \n\n* Pweza Money Market Fund pays withdrawals within 3 business days【source: syn_t1_factsheet_pweza_money_market】.  \n* Mamba Money Market Fund also pays withdrawals within 3 business days【source: syn_t1_factsheet_mamba_money_market】.  \n* Nyati Money Market Fund pays withdrawals within 1 business day【source: syn_t1_factsheet_nyati_money_market】.\n\nThus, while the overarching guidance is a 2‑business‑day turnaround, specific funds can have shorter or longer settlement periods. The general 2‑day rule is the preferred Tier 1 official source.",
+    "retrieved_source_ids": [
+      "syn_t1_faq_mmf",
+      "syn_t1_guide_mmf",
+      "syn_t1_factsheet_pweza_money_market",
+      "syn_t1_factsheet_mamba_money_market",
+      "syn_t1_factsheet_nyati_money_market"
+    ],
+    "cited_source_ids": [
+      "syn_t1_faq_mmf",
+      "syn_t1_guide_mmf",
+      "syn_t1_factsheet_pweza_money_market",
+      "syn_t1_factsheet_mamba_money_market",
+      "syn_t1_factsheet_nyati_money_market"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q008",
+    "category": "official_fact",
+    "question": "How are money market fund returns taxed?",
+    "gold_answer": "12 percent final withholding tax",
+    "expected_source_ids": [
+      "syn_t1_guide_tax"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 0.5,
+    "citation_recall": 1.0,
+    "answer": "Money market fund returns are taxed as interest income at a 12 percent withholding tax, which is a final tax – meaning investors have no further tax liability on that income【source: syn_t1_guide_tax】. The regulator confirms that the 12 percent withholding tax on money‑market fund returns is the only tax due【source: syn_t2_explainer_tax】.",
+    "retrieved_source_ids": [
+      "syn_t1_guide_tax",
+      "syn_t1_guide_mmf",
+      "syn_t2_explainer_tax",
+      "syn_t1_factsheet_pweza_money_market"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_tax",
+      "syn_t2_explainer_tax"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q009",
+    "category": "official_fact",
+    "question": "What is the withholding tax rate on dividends for resident individuals?",
+    "gold_answer": "8 percent",
+    "expected_source_ids": [
+      "syn_t1_guide_tax"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 1.0,
+    "citation_recall": 1.0,
+    "answer": "The withholding tax rate on dividends for resident individuals is 8 percent [ source: syn_t1_guide_tax ].",
+    "retrieved_source_ids": [
+      "syn_t1_guide_tax",
+      "syn_t2_explainer_tax",
+      "syn_t1_guide_reits",
+      "syn_t1_faq_tax"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_tax"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q010",
+    "category": "official_fact",
+    "question": "Is there a capital gains tax on shares?",
+    "gold_answer": "Yes, 2 percent of the gain",
+    "expected_source_ids": [
+      "syn_t1_guide_tax"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 0.5,
+    "citation_recall": 1.0,
+    "answer": "Yes, there is a capital gains tax on shares; gains on the sale of listed shares are taxed at 2 percent of the gain【source: syn_t1_guide_tax】. The revenue authority’s FAQ also confirms that a capital gains tax of 2 percent applies to shares【source: syn_t1_faq_tax】.",
+    "retrieved_source_ids": [
+      "syn_t1_guide_tax",
+      "syn_t1_guide_equities",
+      "syn_t1_faq_tax",
+      "syn_t2_explainer_tax"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_tax",
+      "syn_t1_faq_tax"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q011",
+    "category": "official_fact",
+    "question": "How many days after a trade do share trades settle?",
+    "gold_answer": "T+3, three business days",
+    "expected_source_ids": [
+      "syn_t1_guide_equities"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 0.3333333333333333,
+    "citation_recall": 1.0,
+    "answer": "Share trades settle three business days after the trade date (T + 3) — the official guidance from the SYN Securities Exchange’s Tier 1 guide states “Share trades settle on T+3, that is three business days after the trade date”【source: syn_t1_guide_equities】, and the Tier 1 FAQ confirms the same answer (“T+3, three business days”)【source: syn_t1_faq_equities】.  \n\nA Tier 2 article reports a different settlement period of two business days (T + 2)【source: syn_t2_article_settle】, but when sources disagree the Tier 1 official source is preferred.",
+    "retrieved_source_ids": [
+      "syn_t1_guide_equities",
+      "syn_t1_faq_equities",
+      "syn_t2_explainer_equities",
+      "syn_t2_article_settle"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_equities",
+      "syn_t1_faq_equities",
+      "syn_t2_article_settle"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q012",
+    "category": "official_fact",
+    "question": "What is the maximum brokerage commission on share trades?",
+    "gold_answer": "1.2 percent of trade value",
+    "expected_source_ids": [
+      "syn_t1_guide_equities"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 0.5,
+    "citation_precision": 0.5,
+    "citation_recall": 1.0,
+    "answer": "The maximum brokerage commission on share trades may not exceed 1.2 percent of the trade value【source: syn_t1_faq_equities】【source: syn_t1_guide_equities】.",
+    "retrieved_source_ids": [
+      "syn_t1_faq_equities",
+      "syn_t1_guide_equities",
+      "syn_t2_explainer_equities",
+      "syn_t1_listing_kito_agri"
+    ],
+    "cited_source_ids": [
+      "syn_t1_faq_equities",
+      "syn_t1_guide_equities"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q013",
+    "category": "official_fact",
+    "question": "What share of income must a REIT distribute?",
+    "gold_answer": "At least 80 percent",
+    "expected_source_ids": [
+      "syn_t1_guide_reits"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 1.0,
+    "citation_recall": 1.0,
+    "answer": "A REIT must distribute at least 80 percent of its distributable income to unit holders each year【source: syn_t1_guide_reits】.",
+    "retrieved_source_ids": [
+      "syn_t1_guide_reits",
+      "syn_t1_faq_reits",
+      "syn_t2_explainer_reits",
+      "syn_t1_guide_tax"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_reits"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q014",
+    "category": "official_fact",
+    "question": "What is the withholding tax on REIT distributions?",
+    "gold_answer": "15 percent",
+    "expected_source_ids": [
+      "syn_t1_guide_reits"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 1.0,
+    "citation_recall": 1.0,
+    "answer": "The withholding tax on REIT distributions to resident individuals is 15 percent [ source: syn_t1_guide_reits ].",
+    "retrieved_source_ids": [
+      "syn_t1_guide_reits",
+      "syn_t1_faq_reits",
+      "syn_t2_explainer_reits",
+      "syn_t1_guide_tax"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_reits"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q015",
+    "category": "official_fact",
+    "question": "How much of a member's deposits does the SACCO Deposit Fund cover?",
+    "gold_answer": "Up to SYN Sh 250,000 per member",
+    "expected_source_ids": [
+      "syn_t1_guide_saccos"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 0.5,
+    "citation_recall": 1.0,
+    "answer": "The SACCO Deposit Fund covers a member’s deposits up to SYN Sh 250,000 per member【source: syn_t1_guide_saccos】【source: syn_t1_faq_saccos】.",
+    "retrieved_source_ids": [
+      "syn_t1_guide_saccos",
+      "syn_t1_faq_saccos",
+      "syn_t1_factsheet_duma_equity",
+      "syn_t1_factsheet_jua_bond"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_saccos",
+      "syn_t1_faq_saccos"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q016",
+    "category": "official_fact",
+    "question": "What is the minimum share capital to join a SACCO?",
+    "gold_answer": "SYN Sh 5,000",
+    "expected_source_ids": [
+      "syn_t1_guide_saccos"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 0.5,
+    "citation_precision": 0.5,
+    "citation_recall": 1.0,
+    "answer": "The minimum share capital required to join a SACCO is SYN Sh 5,000 [ source: syn_t1_faq_saccos ]. This figure is also confirmed in the SACCO guide issued by the SYN SACCO Societies Authority [ source: syn_t1_guide_saccos ].",
+    "retrieved_source_ids": [
+      "syn_t1_faq_saccos",
+      "syn_t1_guide_saccos",
+      "syn_t2_explainer_saccos",
+      "syn_t1_listing_bahari_holdings"
+    ],
+    "cited_source_ids": [
+      "syn_t1_faq_saccos",
+      "syn_t1_guide_saccos"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q017",
+    "category": "official_fact",
+    "question": "At what age can I withdraw from a retirement scheme?",
+    "gold_answer": "Age 55",
+    "expected_source_ids": [
+      "syn_t1_guide_pensions"
+    ],
+    "precision_at_k": 0.3333333333333333,
+    "recall_at_k": 1.0,
+    "mrr": 0.5,
+    "citation_precision": 0.0,
+    "citation_recall": 0.0,
+    "answer": "You can withdraw from a retirement scheme starting at age 55 [ source: syn_t1_faq_pensions ].",
+    "retrieved_source_ids": [
+      "syn_t1_faq_pensions",
+      "syn_t1_guide_pensions",
+      "syn_t2_explainer_pensions"
+    ],
+    "cited_source_ids": [
+      "syn_t1_faq_pensions"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q018",
+    "category": "official_fact",
+    "question": "How much monthly pension contribution is tax deductible?",
+    "gold_answer": "SYN Sh 20,000 per month",
+    "expected_source_ids": [
+      "syn_t1_guide_pensions"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 0.5,
+    "citation_recall": 1.0,
+    "answer": "The tax‑deductible limit for monthly pension contributions is SYN Sh 20,000 per month【source: syn_t1_guide_pensions】. This amount is confirmed in the Retirement Benefits Authority’s FAQ, which states that the monthly pension contribution that can be deducted is SYN Sh 20,000【source: syn_t1_faq_pensions】.",
+    "retrieved_source_ids": [
+      "syn_t1_guide_pensions",
+      "syn_t2_explainer_pensions",
+      "syn_t1_faq_pensions",
+      "syn_t1_guide_tax"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_pensions",
+      "syn_t1_faq_pensions"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q019",
+    "category": "official_fact",
+    "question": "What is the minimum purchase of the Sokoni Savings Bond?",
+    "gold_answer": "SYN Sh 3,000",
+    "expected_source_ids": [
+      "syn_t1_guide_savings_bond"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 1.0,
+    "citation_precision": 0.5,
+    "citation_recall": 1.0,
+    "answer": "The minimum purchase of the Sokoni Savings Bond is SYN Sh 3,000 [ source: syn_t1_guide_savings_bond ]. [ source: syn_t1_faq_savings_bond ]",
+    "retrieved_source_ids": [
+      "syn_t1_guide_savings_bond",
+      "syn_t1_faq_savings_bond",
+      "syn_t1_guide_tbonds",
+      "syn_t1_factsheet_kiboko_bond"
+    ],
+    "cited_source_ids": [
+      "syn_t1_guide_savings_bond",
+      "syn_t1_faq_savings_bond"
+    ],
+    "abstained": false
+  },
+  {
+    "id": "q020",
+    "category": "official_fact",
+    "question": "Is interest on the Sokoni Savings Bond taxed?",
+    "gold_answer": "No, the interest is tax-exempt",
+    "expected_source_ids": [
+      "syn_t1_guide_savings_bond"
+    ],
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "mrr": 0.5,
+    "citation_precision": 0.5,
+    "citation_recall": 1.0,
+    "answer": "No, the interest earned on the Sokoni Savings Bond is tax‑exempt【source: syn_t1_faq_savings_bond】. This is confirmed in the Central Bank’s guide, which states that interest on the bond is exempt from tax【source: syn_t1_guide_savings_bond】.",
+    "retrieved_source_ids": [
+      "syn_t1_faq_savings_bond",
+      "syn_t1_guide_savings_bond",
+      "syn_t2_explainer_savings_bond",
+      "syn_t1_factsheet_jua_bond"
+    ],
+    "cited_source_ids": [
+      "syn_t1_faq_savings_bond",
+      "syn_t1_guide_savings_bond"
+    ],
+    "abstained": false
+  }
+]

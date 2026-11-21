@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_wrap_2026-04-10.json",
+  "source_id": "syn_t2_wrap_2026-04-10",
+  "publisher": "SYN Market Wire",
+  "author": "Markets desk",
+  "tier": 2,
+  "topic": "markets",
+  "doc_type": "weekly_wrap",
+  "published_date": "2026-04-10",
+  "url": "synthetic://syn_t2_wrap_2026-04-10",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Market Wire weekly wrap for the week ending 2026-04-10. The SSE All-Share Index closed the week ending 2026-04-10 at 1,962.82 points. The 91-day Treasury bill auction that week cleared at 8.91 percent. Weekly turnover on the exchange was SYN Sh 325 million. The top gainer of the week was Umoja Holdings (SYN)."
+    },
+    {
+      "page": 2,
+      "text": "Trading volumes were broadly in line with the previous month, according to exchange data. Analysts at several brokerages said they expected conditions to stay stable through the quarter. Officials declined to comment on whether further changes were planned. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

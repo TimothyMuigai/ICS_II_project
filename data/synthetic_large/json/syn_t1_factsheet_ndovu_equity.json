@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_ndovu_equity.json",
+  "source_id": "syn_t1_factsheet_ndovu_equity",
+  "publisher": "Bonde Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-07-25",
+  "url": "synthetic://syn_t1_factsheet_ndovu_equity",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Ndovu Equity Fund factsheet, issued by Bonde Asset Managers (SYN). Ndovu Equity Fund is a equity fund and its objective is to grow capital by investing mainly in listed companies. The management fee of Ndovu Equity Fund is 2.7 percent per annum. The minimum initial investment in Ndovu Equity Fund is SYN Sh 5,000, and the minimum top-up is SYN Sh 100. Over the 12 months to 2026-09-30 Ndovu Equity Fund delivered an effective annual return of 13.0 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Ndovu Equity Fund are paid within 3 business days. The main holdings of Ndovu Equity Fund are energy shares (50 percent), cement shares (40 percent) and telecom shares (30 percent). Pwani Trustees (SYN) acts as trustee of Ndovu Equity Fund and holds its assets separately from the manager. Ndovu Equity Fund was launched in 2015 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

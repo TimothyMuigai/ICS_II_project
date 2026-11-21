@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_tembo_equity.json",
+  "source_id": "syn_t1_factsheet_tembo_equity",
+  "publisher": "Mto Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-08-05",
+  "url": "synthetic://syn_t1_factsheet_tembo_equity",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Tembo Equity Fund factsheet, issued by Mto Asset Managers (SYN). Tembo Equity Fund is a equity fund and its objective is to achieve long-term capital growth from listed shares. The management fee of Tembo Equity Fund is 2.6 percent per annum. The minimum initial investment in Tembo Equity Fund is SYN Sh 1,000, and the minimum top-up is SYN Sh 100. Over the 12 months to 2026-09-30 Tembo Equity Fund delivered an effective annual return of 5.6 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Tembo Equity Fund are paid within 2 business days. The main holdings of Tembo Equity Fund are retail shares (50 percent), cement shares (40 percent) and telecom shares (30 percent). SYN Trust Company acts as trustee of Tembo Equity Fund and holds its assets separately from the manager. Tembo Equity Fund was launched in 2014 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

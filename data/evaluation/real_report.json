@@ -1,0 +1,30 @@
+{
+  "overall": {
+    "n": 5,
+    "precision_at_k": 0.375,
+    "recall_at_k": 0.75,
+    "mrr": 0.4,
+    "abstention_accuracy": 1.0
+  },
+  "by_category": {
+    "official_fact": {
+      "n": 4,
+      "precision_at_k": 0.375,
+      "recall_at_k": 0.75,
+      "mrr": 0.5,
+      "abstention_accuracy": 1.0
+    },
+    "out_of_corpus": {
+      "n": 1,
+      "precision_at_k": null,
+      "recall_at_k": null,
+      "mrr": 0.0,
+      "abstention_accuracy": 1.0
+    }
+  },
+  "citation_metrics": {
+    "n": 4,
+    "citation_precision": 0.375,
+    "citation_recall": 0.75
+  }
+}

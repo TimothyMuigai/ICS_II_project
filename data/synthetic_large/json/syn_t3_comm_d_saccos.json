@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_d_saccos.json",
+  "source_id": "syn_t3_comm_d_saccos",
+  "publisher": "Commentator D (SYN)",
+  "author": "Commentator D (SYN)",
+  "tier": 3,
+  "topic": "saccos",
+  "doc_type": "commentary",
+  "published_date": "2025-06-20",
+  "url": "synthetic://syn_t3_comm_d_saccos",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Many people ask me about this. I want to talk about SACCOs today. I am sceptical and warn that advertised returns are overstated. Read the small print, because returns in adverts are overstated. SACCO deposits are fully insured, every last shilling."
+    },
+    {
+      "page": 2,
+      "text": "Members should read the annual report and attend the general meeting. A SACCO is a member-owned savings and credit cooperative. I will post an update next month. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

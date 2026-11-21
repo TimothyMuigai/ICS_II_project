@@ -1,0 +1,18 @@
+{
+  "document": "syn_t1_faq_pensions.json",
+  "source_id": "syn_t1_faq_pensions",
+  "publisher": "SYN Retirement Benefits Authority",
+  "author": "",
+  "tier": 1,
+  "topic": "pensions",
+  "doc_type": "faq",
+  "published_date": "2026-07-02",
+  "url": "synthetic://syn_t1_faq_pensions",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Frequently asked questions about retirement schemes, published by the SYN Retirement Benefits Authority. Question: At what age can I withdraw from a retirement scheme? Answer: Age 55. Question: How much monthly pension contribution is tax deductible? Answer: SYN Sh 20,000 per month. These answers are updated whenever the rules change. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

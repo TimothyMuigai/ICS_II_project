@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_e_mmf.json",
+  "source_id": "syn_t3_comm_e_mmf",
+  "publisher": "Commentator E (SYN)",
+  "author": "Commentator E (SYN)",
+  "tier": 3,
+  "topic": "mmf",
+  "doc_type": "commentary",
+  "published_date": "2026-08-15",
+  "url": "synthetic://syn_t3_comm_e_mmf",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Many people ask me about this. I want to talk about money market funds today. In my view this is the best choice for ordinary savers. I am strongly positive about it and tell everyone I know. Withdrawals from money market funds are instant, within seconds, at any hour."
+    },
+    {
+      "page": 2,
+      "text": "A money market fund pools investors' money and places it in short-term instruments such as bills, deposits and commercial paper. Returns are earned daily and the quoted yield is an annualised figure that changes with market rates. This is only my opinion and you must decide for yourself. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

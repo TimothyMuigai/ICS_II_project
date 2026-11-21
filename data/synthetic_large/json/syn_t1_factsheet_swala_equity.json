@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_swala_equity.json",
+  "source_id": "syn_t1_factsheet_swala_equity",
+  "publisher": "Bonde Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-07-24",
+  "url": "synthetic://syn_t1_factsheet_swala_equity",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Swala Equity Fund factsheet, issued by Bonde Asset Managers (SYN). Swala Equity Fund is a equity fund and its objective is to achieve long-term capital growth from listed shares. The management fee of Swala Equity Fund is 2.4 percent per annum. The minimum initial investment in Swala Equity Fund is SYN Sh 500, and the minimum top-up is SYN Sh 500. Over the 12 months to 2026-09-30 Swala Equity Fund delivered an effective annual return of 14.2 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Swala Equity Fund are paid within 1 business days. The main holdings of Swala Equity Fund are retail shares (35 percent), cement shares (20 percent) and energy shares (15 percent). SYN Trust Company acts as trustee of Swala Equity Fund and holds its assets separately from the manager. Swala Equity Fund was launched in 2013 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

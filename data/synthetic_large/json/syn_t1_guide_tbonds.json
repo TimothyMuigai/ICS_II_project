@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_guide_tbonds.json",
+  "source_id": "syn_t1_guide_tbonds",
+  "publisher": "SYN Central Bank",
+  "author": "",
+  "tier": 1,
+  "topic": "tbonds",
+  "doc_type": "investor_guide",
+  "published_date": "2026-03-25",
+  "url": "synthetic://syn_t1_guide_tbonds",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Treasury bonds are longer-term government securities that pay a fixed coupon. A bond is issued for a stated number of years and returns the face value on maturity. The coupon rate is announced in the auction prospectus and does not change over the life of the bond. Bond prices on the secondary market move up when market yields fall and down when they rise. Infrastructure bonds are a separate series issued to fund public projects."
+    },
+    {
+      "page": 2,
+      "text": "The minimum bid for a Treasury bond is SYN Sh 100,000, in multiples of SYN Sh 50,000 thereafter. Treasury bonds pay their coupon every six months until maturity. This guide was issued by the SYN Central Bank for retail investors and is reviewed every year. Readers who need advice on Treasury bonds should consult a licensed adviser, because this guide gives information only. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

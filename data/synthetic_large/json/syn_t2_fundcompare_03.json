@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_fundcompare_03.json",
+  "source_id": "syn_t2_fundcompare_03",
+  "publisher": "SYN Daily Ledger",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "funds",
+  "doc_type": "news_article",
+  "published_date": "2026-08-26",
+  "url": "synthetic://syn_t2_fundcompare_03",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Daily Ledger compares fund performance over the past year. Officials declined to comment on whether further changes were planned. Industry groups welcomed the clarity but asked for more investor education. The Mto Balanced Fund charged 2.0 percent a year, with a minimum of SYN Sh 1,000. The Baraka Bond Fund charged 2.5 percent a year, with a minimum of SYN Sh 1,000."
+    },
+    {
+      "page": 2,
+      "text": "The Nyota Bond Fund charged 1.8 percent a year, with a minimum of SYN Sh 10,000. The Kiboko Money Market Fund charged 1.7 percent a year, with a minimum of SYN Sh 10,000. The Tausi Bond Fund charged 1.9 percent a year, with a minimum of SYN Sh 1,000. The Tausi Balanced Fund charged 2.6 percent a year, with a minimum of SYN Sh 500. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

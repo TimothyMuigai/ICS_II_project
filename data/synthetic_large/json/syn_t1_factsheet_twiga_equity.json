@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_twiga_equity.json",
+  "source_id": "syn_t1_factsheet_twiga_equity",
+  "publisher": "Jua Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-08-20",
+  "url": "synthetic://syn_t1_factsheet_twiga_equity",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Twiga Equity Fund factsheet, issued by Jua Asset Managers (SYN). Twiga Equity Fund is a equity fund and its objective is to achieve long-term capital growth from listed shares. The management fee of Twiga Equity Fund is 2.4 percent per annum. The minimum initial investment in Twiga Equity Fund is SYN Sh 1,000, and the minimum top-up is SYN Sh 100. Over the 12 months to 2026-09-30 Twiga Equity Fund delivered an effective annual return of 14.9 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Twiga Equity Fund are paid within 2 business days. The main holdings of Twiga Equity Fund are telecom shares (25 percent), cement shares (15 percent) and retail shares (10 percent). Bara Custodial (SYN) acts as trustee of Twiga Equity Fund and holds its assets separately from the manager. Twiga Equity Fund was launched in 2020 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

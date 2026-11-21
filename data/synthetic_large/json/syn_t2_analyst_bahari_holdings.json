@@ -1,0 +1,18 @@
+{
+  "document": "syn_t2_analyst_bahari_holdings.json",
+  "source_id": "syn_t2_analyst_bahari_holdings",
+  "publisher": "SYN Finance Weekly",
+  "author": "Equity desk",
+  "tier": 2,
+  "topic": "equities",
+  "doc_type": "analyst_note",
+  "published_date": "2026-08-22",
+  "url": "synthetic://syn_t2_analyst_bahari_holdings",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Finance Weekly analyst note on Bahari Holdings (SYN). The analyst set a twelve-month target price of SYN Sh 177.74 for BAH7. The note cites steady demand in the holdings sector and cost control at Bahari Holdings (SYN). Market participants said the move reflected steady demand from retail and institutional investors. The development follows a year in which small investors have shown growing interest in formal products. Analysts at several brokerages said they expected conditions to stay stable through the quarter. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

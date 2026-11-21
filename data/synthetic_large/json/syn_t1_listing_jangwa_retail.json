@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_listing_jangwa_retail.json",
+  "source_id": "syn_t1_listing_jangwa_retail",
+  "publisher": "SYN Securities Exchange",
+  "author": "",
+  "tier": 1,
+  "topic": "equities",
+  "doc_type": "listing_summary",
+  "published_date": "2026-05-01",
+  "url": "synthetic://syn_t1_listing_jangwa_retail",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Jangwa Retail (SYN), ticker JAN1, is listed on the SYN Securities Exchange in the retail sector. The ticker of Jangwa Retail (SYN) on the exchange is JAN1. Jangwa Retail (SYN) declared a dividend of SYN Sh 3.55 per share for the year ended 31 December 2025. Net profit of Jangwa Retail (SYN) for 2025 was SYN Sh 2,576 million. The closing price of JAN1 on 2026-09-30 was SYN Sh 155.83."
+    },
+    {
+      "page": 2,
+      "text": "Jangwa Retail (SYN) has 2,757 million shares in issue. This listing summary is published by the SYN Securities Exchange from company filings and is not a recommendation to buy or sell. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

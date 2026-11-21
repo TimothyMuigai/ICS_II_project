@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_explainer_pensions.json",
+  "source_id": "syn_t2_explainer_pensions",
+  "publisher": "SYN Finance Weekly",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "pensions",
+  "doc_type": "news_article",
+  "published_date": "2026-04-29",
+  "url": "synthetic://syn_t2_explainer_pensions",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Finance Weekly explains how retirement schemes work for ordinary savers. Officials declined to comment on whether further changes were planned. Analysts at several brokerages said they expected conditions to stay stable through the quarter. Trading volumes were broadly in line with the previous month, according to exchange data. According to the regulator, the earliest age for drawing retirement benefits from a registered scheme is 55."
+    },
+    {
+      "page": 2,
+      "text": "According to the regulator, the monthly limit for tax-deductible retirement contributions is SYN Sh 20,000. Members receive an annual statement showing contributions, fees and the account balance. Early withdrawal before the permitted age is restricted. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

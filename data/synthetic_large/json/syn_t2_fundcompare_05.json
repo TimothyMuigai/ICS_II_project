@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_fundcompare_05.json",
+  "source_id": "syn_t2_fundcompare_05",
+  "publisher": "SYN Daily Ledger",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "funds",
+  "doc_type": "news_article",
+  "published_date": "2026-08-24",
+  "url": "synthetic://syn_t2_fundcompare_05",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Daily Ledger compares fund performance over the past year. The development follows a year in which small investors have shown growing interest in formal products. Analysts at several brokerages said they expected conditions to stay stable through the quarter. The Nyati Money Market Fund charged 2.2 percent a year, with a minimum of SYN Sh 5,000. The Kiboko Equity Fund charged 2.5 percent a year, with a minimum of SYN Sh 10,000."
+    },
+    {
+      "page": 2,
+      "text": "The Mamba Money Market Fund charged 2.4 percent a year, with a minimum of SYN Sh 10,000. The Duma Balanced Fund charged 1.8 percent a year, with a minimum of SYN Sh 500. The Kifaru Balanced Fund charged 2.3 percent a year, with a minimum of SYN Sh 1,000. The Chui Bond Fund charged 1.8 percent a year, with a minimum of SYN Sh 5,000. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

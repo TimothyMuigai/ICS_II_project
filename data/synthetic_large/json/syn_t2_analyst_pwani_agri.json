@@ -1,0 +1,18 @@
+{
+  "document": "syn_t2_analyst_pwani_agri.json",
+  "source_id": "syn_t2_analyst_pwani_agri",
+  "publisher": "SYN Finance Weekly",
+  "author": "Equity desk",
+  "tier": 2,
+  "topic": "equities",
+  "doc_type": "analyst_note",
+  "published_date": "2026-06-23",
+  "url": "synthetic://syn_t2_analyst_pwani_agri",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Finance Weekly analyst note on Pwani Agri (SYN). The analyst set a twelve-month target price of SYN Sh 65.43 for PWA1. The note cites steady demand in the agri sector and cost control at Pwani Agri (SYN). Officials declined to comment on whether further changes were planned. Trading volumes were broadly in line with the previous month, according to exchange data. The development follows a year in which small investors have shown growing interest in formal products. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

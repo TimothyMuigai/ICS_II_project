@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_duma_equity.json",
+  "source_id": "syn_t1_factsheet_duma_equity",
+  "publisher": "Pweza Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-09-11",
+  "url": "synthetic://syn_t1_factsheet_duma_equity",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Duma Equity Fund factsheet, issued by Pweza Asset Managers (SYN). Duma Equity Fund is a equity fund and its objective is to grow capital by investing mainly in listed companies. The management fee of Duma Equity Fund is 2.5 percent per annum. The minimum initial investment in Duma Equity Fund is SYN Sh 5,000, and the minimum top-up is SYN Sh 100. Over the 12 months to 2026-09-30 Duma Equity Fund delivered an effective annual return of 12.8 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Duma Equity Fund are paid within 3 business days. The main holdings of Duma Equity Fund are bank shares (45 percent), cement shares (40 percent) and energy shares (20 percent). Pwani Trustees (SYN) acts as trustee of Duma Equity Fund and holds its assets separately from the manager. Duma Equity Fund was launched in 2022 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

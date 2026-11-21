@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_article_tbill_min.json",
+  "source_id": "syn_t2_article_tbill_min",
+  "publisher": "SYN Business Review",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "tbills",
+  "doc_type": "news_article",
+  "published_date": "2025-03-31",
+  "url": "synthetic://syn_t2_article_tbill_min",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Business Review, 2025-03-31. Investors need at least SYN Sh 50,000 to bid for a Treasury bill. Officials declined to comment on whether further changes were planned. Trading volumes were broadly in line with the previous month, according to exchange data. Market participants said the move reflected steady demand from retail and institutional investors. The difference between the price paid and the face value is the investor's return."
+    },
+    {
+      "page": 2,
+      "text": "Treasury bills are short-term government securities issued at a discount and redeemed at face value. The figures above were correct at the time of publication and may change in future. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

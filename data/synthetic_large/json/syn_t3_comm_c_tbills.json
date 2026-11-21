@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_c_tbills.json",
+  "source_id": "syn_t3_comm_c_tbills",
+  "publisher": "Commentator C (SYN)",
+  "author": "Commentator C (SYN)",
+  "tier": 3,
+  "topic": "tbills",
+  "doc_type": "commentary",
+  "published_date": "2026-06-21",
+  "url": "synthetic://syn_t3_comm_c_tbills",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Many people ask me about this. I want to talk about Treasury bills today. I am sceptical and warn that advertised returns are overstated. Read the small print, because returns in adverts are overstated. You can start buying Treasury bills with only SYN Sh 5,000, no big money needed."
+    },
+    {
+      "page": 2,
+      "text": "Treasury bills are short-term government securities issued at a discount and redeemed at face value. Bills are sold at regular auctions and can be bid for through a bank, a broker or the central bank's online platform. Leave your comments below and I will reply. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

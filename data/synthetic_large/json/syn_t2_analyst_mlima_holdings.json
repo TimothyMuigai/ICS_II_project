@@ -1,0 +1,18 @@
+{
+  "document": "syn_t2_analyst_mlima_holdings.json",
+  "source_id": "syn_t2_analyst_mlima_holdings",
+  "publisher": "SYN Business Review",
+  "author": "Equity desk",
+  "tier": 2,
+  "topic": "equities",
+  "doc_type": "analyst_note",
+  "published_date": "2026-08-06",
+  "url": "synthetic://syn_t2_analyst_mlima_holdings",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Business Review analyst note on Mlima Holdings (SYN). The analyst set a twelve-month target price of SYN Sh 14.78 for MLI0. The note cites steady demand in the holdings sector and cost control at Mlima Holdings (SYN). Industry groups welcomed the clarity but asked for more investor education. Officials declined to comment on whether further changes were planned. Analysts at several brokerages said they expected conditions to stay stable through the quarter. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

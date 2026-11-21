@@ -1,0 +1,18 @@
+{
+  "document": "syn_t3_hype_jua_bond.json",
+  "source_id": "syn_t3_hype_jua_bond",
+  "publisher": "Commentator B (SYN)",
+  "author": "Commentator B (SYN)",
+  "tier": 3,
+  "topic": "funds",
+  "doc_type": "social_post",
+  "published_date": "2026-08-25",
+  "url": "synthetic://syn_t3_hype_jua_bond",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Here is what I tell my followers. The Jua Bond Fund is paying 14.6 percent!! Everybody I know has moved their money into the Jua Bond Fund. Banks will never tell you this, but the numbers do not lie. Ignore the factsheet, the real yield of the Jua Bond Fund is 14.6 percent. This is only my opinion and you must decide for yourself. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

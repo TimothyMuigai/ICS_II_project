@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_explainer_tax.json",
+  "source_id": "syn_t2_explainer_tax",
+  "publisher": "SYN Market Wire",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "tax",
+  "doc_type": "news_article",
+  "published_date": "2026-05-21",
+  "url": "synthetic://syn_t2_explainer_tax",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Market Wire explains how investment tax work for ordinary savers. Trading volumes were broadly in line with the previous month, according to exchange data. Analysts at several brokerages said they expected conditions to stay stable through the quarter. Officials declined to comment on whether further changes were planned. According to the regulator, money market fund returns are taxed at 12 percent withholding tax and no further tax is due."
+    },
+    {
+      "page": 2,
+      "text": "According to the regulator, a resident individual receiving a dividend has 8 percent withheld at source. According to the regulator, capital gains tax on listed shares is charged at 2 percent of the gain realised. Tax rules are changed through the annual finance act, so the effective date of any change matters. Different instruments are taxed differently, and the rate depends on the type of income and the investor's residence. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

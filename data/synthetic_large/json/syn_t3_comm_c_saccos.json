@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_c_saccos.json",
+  "source_id": "syn_t3_comm_c_saccos",
+  "publisher": "Commentator C (SYN)",
+  "author": "Commentator C (SYN)",
+  "tier": 3,
+  "topic": "saccos",
+  "doc_type": "commentary",
+  "published_date": "2025-09-19",
+  "url": "synthetic://syn_t3_comm_c_saccos",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Here is what I tell my followers. I want to talk about SACCOs today. In my view this is the best choice for ordinary savers. I am strongly positive about it and tell everyone I know. Members should read the annual report and attend the general meeting."
+    },
+    {
+      "page": 2,
+      "text": "Members contribute share capital and savings deposits and may borrow against their deposits. Leave your comments below and I will reply. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

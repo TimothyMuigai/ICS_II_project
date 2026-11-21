@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_d_tax.json",
+  "source_id": "syn_t3_comm_d_tax",
+  "publisher": "Commentator D (SYN)",
+  "author": "Commentator D (SYN)",
+  "tier": 3,
+  "topic": "tax",
+  "doc_type": "commentary",
+  "published_date": "2026-08-24",
+  "url": "synthetic://syn_t3_comm_d_tax",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Forget the experts for a moment. I want to talk about investment tax today. I am sceptical and warn that advertised returns are overstated. Read the small print, because returns in adverts are overstated. Money market fund returns are completely tax-free, you keep every shilling."
+    },
+    {
+      "page": 2,
+      "text": "There is no tax on profits from selling shares. Tax rules are changed through the annual finance act, so the effective date of any change matters. Investment income is taxed at source in most cases, so investors often receive the amount after tax. I will post an update next month. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_explainer_saccos.json",
+  "source_id": "syn_t2_explainer_saccos",
+  "publisher": "SYN Daily Ledger",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "saccos",
+  "doc_type": "news_article",
+  "published_date": "2026-07-14",
+  "url": "synthetic://syn_t2_explainer_saccos",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Daily Ledger explains how SACCOs work for ordinary savers. Analysts at several brokerages said they expected conditions to stay stable through the quarter. Industry groups welcomed the clarity but asked for more investor education. Market participants said the move reflected steady demand from retail and institutional investors. According to the regulator, if a licensed SACCO fails, each member is compensated up to SYN Sh 250,000."
+    },
+    {
+      "page": 2,
+      "text": "According to the regulator, joining a licensed SACCO requires share capital of at least SYN Sh 5,000. A SACCO is a member-owned savings and credit cooperative. A deposit-taking SACCO is licensed and inspected by the authority. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

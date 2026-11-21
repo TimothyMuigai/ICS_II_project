@@ -1,0 +1,18 @@
+{
+  "document": "syn_t3_hype_kiboko_money_market.json",
+  "source_id": "syn_t3_hype_kiboko_money_market",
+  "publisher": "Commentator F (SYN)",
+  "author": "Commentator F (SYN)",
+  "tier": 3,
+  "topic": "funds",
+  "doc_type": "social_post",
+  "published_date": "2026-06-09",
+  "url": "synthetic://syn_t3_hype_kiboko_money_market",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Here is what I tell my followers. The Kiboko Money Market Fund is paying 12.5 percent!! Everybody I know has moved their money into the Kiboko Money Market Fund. Banks will never tell you this, but the numbers do not lie. Ignore the factsheet, the real yield of the Kiboko Money Market Fund is 12.5 percent. I will post an update next month. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

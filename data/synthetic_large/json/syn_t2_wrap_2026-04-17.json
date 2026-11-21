@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_wrap_2026-04-17.json",
+  "source_id": "syn_t2_wrap_2026-04-17",
+  "publisher": "SYN Market Wire",
+  "author": "Markets desk",
+  "tier": 2,
+  "topic": "markets",
+  "doc_type": "weekly_wrap",
+  "published_date": "2026-04-17",
+  "url": "synthetic://syn_t2_wrap_2026-04-17",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Market Wire weekly wrap for the week ending 2026-04-17. The SSE All-Share Index closed the week ending 2026-04-17 at 1,987.27 points. The 91-day Treasury bill auction that week cleared at 10.12 percent. Weekly turnover on the exchange was SYN Sh 1,134 million. The top gainer of the week was Jangwa Holdings (SYN)."
+    },
+    {
+      "page": 2,
+      "text": "Industry groups welcomed the clarity but asked for more investor education. Analysts at several brokerages said they expected conditions to stay stable through the quarter. Officials declined to comment on whether further changes were planned. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

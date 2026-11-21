@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_guide_reits.json",
+  "source_id": "syn_t1_guide_reits",
+  "publisher": "SYN Capital Markets Authority",
+  "author": "",
+  "tier": 1,
+  "topic": "reits",
+  "doc_type": "investor_guide",
+  "published_date": "2026-02-02",
+  "url": "synthetic://syn_t1_guide_reits",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "A real estate investment trust owns income-producing property and issues units that trade on the exchange. Unit holders receive a share of rental income as distributions. A trustee holds the property on behalf of unit holders and a manager runs the portfolio. Unit prices can fall below the value of the underlying property, which is called a discount. Income REITs focus on rent, while development REITs build and sell property."
+    },
+    {
+      "page": 2,
+      "text": "A REIT must distribute at least 80 percent of its distributable income to unit holders each year. Distributions from a REIT to resident individuals are subject to withholding tax of 15 percent. This guide was issued by the SYN Capital Markets Authority for retail investors and is reviewed every year. Readers who need advice on REITs should consult a licensed adviser, because this guide gives information only. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

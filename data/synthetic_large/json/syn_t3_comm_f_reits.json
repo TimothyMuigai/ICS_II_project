@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_f_reits.json",
+  "source_id": "syn_t3_comm_f_reits",
+  "publisher": "Commentator F (SYN)",
+  "author": "Commentator F (SYN)",
+  "tier": 3,
+  "topic": "reits",
+  "doc_type": "commentary",
+  "published_date": "2026-07-29",
+  "url": "synthetic://syn_t3_comm_f_reits",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Many people ask me about this. I want to talk about REITs today. I am sceptical and warn that advertised returns are overstated. Read the small print, because returns in adverts are overstated. REIT distributions are taxed at only 5 percent."
+    },
+    {
+      "page": 2,
+      "text": "Unit holders receive a share of rental income as distributions. A trustee holds the property on behalf of unit holders and a manager runs the portfolio. Do your own research before you act. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

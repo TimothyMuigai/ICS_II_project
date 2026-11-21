@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_d_reits.json",
+  "source_id": "syn_t3_comm_d_reits",
+  "publisher": "Commentator D (SYN)",
+  "author": "Commentator D (SYN)",
+  "tier": 3,
+  "topic": "reits",
+  "doc_type": "commentary",
+  "published_date": "2026-05-18",
+  "url": "synthetic://syn_t3_comm_d_reits",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Forget the experts for a moment. I want to talk about REITs today. I am sceptical and warn that advertised returns are overstated. Read the small print, because returns in adverts are overstated. REITs must pay out 100 percent of income and guarantee it every year."
+    },
+    {
+      "page": 2,
+      "text": "Income REITs focus on rent, while development REITs build and sell property. Unit holders receive a share of rental income as distributions. I will post an update next month. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_e_pensions.json",
+  "source_id": "syn_t3_comm_e_pensions",
+  "publisher": "Commentator E (SYN)",
+  "author": "Commentator E (SYN)",
+  "tier": 3,
+  "topic": "pensions",
+  "doc_type": "commentary",
+  "published_date": "2025-11-28",
+  "url": "synthetic://syn_t3_comm_e_pensions",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "I have been investing for years and this is my take. I want to talk about retirement schemes today. I am sceptical and warn that advertised returns are overstated. Read the small print, because returns in adverts are overstated. You can take all your pension out at 45 if you ask your scheme."
+    },
+    {
+      "page": 2,
+      "text": "Schemes may be occupational, individual or umbrella arrangements run by licensed trustees. Contributions are invested and the value of a member's account depends on investment performance. Do your own research before you act. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

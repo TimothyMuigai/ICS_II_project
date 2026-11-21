@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_a_equities.json",
+  "source_id": "syn_t3_comm_a_equities",
+  "publisher": "Commentator A (SYN)",
+  "author": "Commentator A (SYN)",
+  "tier": 3,
+  "topic": "equities",
+  "doc_type": "commentary",
+  "published_date": "2025-06-29",
+  "url": "synthetic://syn_t3_comm_a_equities",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Many people ask me about this. I want to talk about shares today. I am sceptical and warn that advertised returns are overstated. Read the small print, because returns in adverts are overstated. Your shares and cash settle instantly the moment the trade is matched."
+    },
+    {
+      "page": 2,
+      "text": "Companies may pay dividends out of profit, but they are not obliged to. Shares represent part ownership of a listed company and are traded through licensed brokers on the exchange. This is only my opinion and you must decide for yourself. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

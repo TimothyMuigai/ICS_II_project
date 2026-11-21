@@ -1,0 +1,18 @@
+{
+  "document": "syn_t2_analyst_safari_retail.json",
+  "source_id": "syn_t2_analyst_safari_retail",
+  "publisher": "SYN Business Review",
+  "author": "Equity desk",
+  "tier": 2,
+  "topic": "equities",
+  "doc_type": "analyst_note",
+  "published_date": "2026-07-16",
+  "url": "synthetic://syn_t2_analyst_safari_retail",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Business Review analyst note on Safari Retail (SYN). The analyst set a twelve-month target price of SYN Sh 154.93 for SAF6. The note cites steady demand in the retail sector and cost control at Safari Retail (SYN). Industry groups welcomed the clarity but asked for more investor education. Officials declined to comment on whether further changes were planned. Trading volumes were broadly in line with the previous month, according to exchange data. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

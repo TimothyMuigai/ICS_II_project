@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_fundcompare_02.json",
+  "source_id": "syn_t2_fundcompare_02",
+  "publisher": "SYN Business Review",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "funds",
+  "doc_type": "news_article",
+  "published_date": "2026-09-25",
+  "url": "synthetic://syn_t2_fundcompare_02",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Business Review compares fund performance over the past year. Officials declined to comment on whether further changes were planned. The development follows a year in which small investors have shown growing interest in formal products. The Ndovu Equity Fund charged 2.7 percent a year, with a minimum of SYN Sh 5,000. The Pweza Money Market Fund charged 1.6 percent a year, with a minimum of SYN Sh 5,000."
+    },
+    {
+      "page": 2,
+      "text": "The Tembo Equity Fund charged 2.6 percent a year, with a minimum of SYN Sh 1,000. The Swala Bond Fund charged 1.9 percent a year, with a minimum of SYN Sh 5,000. The Duma Equity Fund charged 2.5 percent a year, with a minimum of SYN Sh 5,000. The Zuri Bond Fund charged 2.3 percent a year, with a minimum of SYN Sh 500. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

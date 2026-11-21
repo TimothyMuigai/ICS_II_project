@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_listing_kilele_insurance.json",
+  "source_id": "syn_t1_listing_kilele_insurance",
+  "publisher": "SYN Securities Exchange",
+  "author": "",
+  "tier": 1,
+  "topic": "equities",
+  "doc_type": "listing_summary",
+  "published_date": "2026-09-09",
+  "url": "synthetic://syn_t1_listing_kilele_insurance",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Kilele Insurance (SYN), ticker KIL8, is listed on the SYN Securities Exchange in the insurance sector. The ticker of Kilele Insurance (SYN) on the exchange is KIL8. Kilele Insurance (SYN) declared a dividend of SYN Sh 6.10 per share for the year ended 31 December 2025. Net profit of Kilele Insurance (SYN) for 2025 was SYN Sh 9,665 million. The closing price of KIL8 on 2026-09-30 was SYN Sh 89.02."
+    },
+    {
+      "page": 2,
+      "text": "Kilele Insurance (SYN) has 1,718 million shares in issue. This listing summary is published by the SYN Securities Exchange from company filings and is not a recommendation to buy or sell. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

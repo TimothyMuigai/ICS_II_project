@@ -1,0 +1,22 @@
+{
+  "document": "syn_t3_comm_b_tax.json",
+  "source_id": "syn_t3_comm_b_tax",
+  "publisher": "Commentator B (SYN)",
+  "author": "Commentator B (SYN)",
+  "tier": 3,
+  "topic": "tax",
+  "doc_type": "commentary",
+  "published_date": "2025-06-09",
+  "url": "synthetic://syn_t3_comm_b_tax",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Forget the experts for a moment. I want to talk about investment tax today. In my view this is the best choice for ordinary savers. I am strongly positive about it and tell everyone I know. Dividends are not taxed at all in this market."
+    },
+    {
+      "page": 2,
+      "text": "Different instruments are taxed differently, and the rate depends on the type of income and the investor's residence. A final tax means the investor has no further tax to pay on that income. Do your own research before you act. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

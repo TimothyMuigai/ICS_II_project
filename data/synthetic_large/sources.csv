@@ -1,0 +1,196 @@
+source_id,filename,publisher,author,tier,topic,doc_type,published_date,url,date_collected,synthetic
+syn_t1_guide_tbills,syn_t1_guide_tbills.json,SYN Central Bank,,1,tbills,investor_guide,2026-02-06,synthetic://syn_t1_guide_tbills,2026-10-31,true
+syn_t1_faq_tbills,syn_t1_faq_tbills.json,SYN Central Bank,,1,tbills,faq,2026-09-13,synthetic://syn_t1_faq_tbills,2026-10-31,true
+syn_t2_explainer_tbills,syn_t2_explainer_tbills.json,SYN Business Review,Staff reporter,2,tbills,news_article,2026-03-09,synthetic://syn_t2_explainer_tbills,2026-10-31,true
+syn_t1_guide_tbonds,syn_t1_guide_tbonds.json,SYN Central Bank,,1,tbonds,investor_guide,2026-03-25,synthetic://syn_t1_guide_tbonds,2026-10-31,true
+syn_t1_faq_tbonds,syn_t1_faq_tbonds.json,SYN Central Bank,,1,tbonds,faq,2026-08-25,synthetic://syn_t1_faq_tbonds,2026-10-31,true
+syn_t2_explainer_tbonds,syn_t2_explainer_tbonds.json,SYN Market Wire,Staff reporter,2,tbonds,news_article,2026-03-04,synthetic://syn_t2_explainer_tbonds,2026-10-31,true
+syn_t1_guide_mmf,syn_t1_guide_mmf.json,SYN Capital Markets Authority,,1,mmf,investor_guide,2026-05-27,synthetic://syn_t1_guide_mmf,2026-10-31,true
+syn_t1_faq_mmf,syn_t1_faq_mmf.json,SYN Capital Markets Authority,,1,mmf,faq,2026-08-11,synthetic://syn_t1_faq_mmf,2026-10-31,true
+syn_t2_explainer_mmf,syn_t2_explainer_mmf.json,SYN Daily Ledger,Staff reporter,2,mmf,news_article,2026-07-06,synthetic://syn_t2_explainer_mmf,2026-10-31,true
+syn_t1_guide_equities,syn_t1_guide_equities.json,SYN Securities Exchange,,1,equities,investor_guide,2026-06-14,synthetic://syn_t1_guide_equities,2026-10-31,true
+syn_t1_faq_equities,syn_t1_faq_equities.json,SYN Securities Exchange,,1,equities,faq,2026-05-18,synthetic://syn_t1_faq_equities,2026-10-31,true
+syn_t2_explainer_equities,syn_t2_explainer_equities.json,SYN Finance Weekly,Staff reporter,2,equities,news_article,2026-08-12,synthetic://syn_t2_explainer_equities,2026-10-31,true
+syn_t1_guide_reits,syn_t1_guide_reits.json,SYN Capital Markets Authority,,1,reits,investor_guide,2026-02-02,synthetic://syn_t1_guide_reits,2026-10-31,true
+syn_t1_faq_reits,syn_t1_faq_reits.json,SYN Capital Markets Authority,,1,reits,faq,2026-05-16,synthetic://syn_t1_faq_reits,2026-10-31,true
+syn_t2_explainer_reits,syn_t2_explainer_reits.json,SYN Business Review,Staff reporter,2,reits,news_article,2026-08-06,synthetic://syn_t2_explainer_reits,2026-10-31,true
+syn_t1_guide_tax,syn_t1_guide_tax.json,SYN Revenue Authority,,1,tax,investor_guide,2026-08-22,synthetic://syn_t1_guide_tax,2026-10-31,true
+syn_t1_faq_tax,syn_t1_faq_tax.json,SYN Revenue Authority,,1,tax,faq,2026-04-12,synthetic://syn_t1_faq_tax,2026-10-31,true
+syn_t2_explainer_tax,syn_t2_explainer_tax.json,SYN Market Wire,Staff reporter,2,tax,news_article,2026-05-21,synthetic://syn_t2_explainer_tax,2026-10-31,true
+syn_t1_guide_saccos,syn_t1_guide_saccos.json,SYN SACCO Societies Authority,,1,saccos,investor_guide,2026-04-14,synthetic://syn_t1_guide_saccos,2026-10-31,true
+syn_t1_faq_saccos,syn_t1_faq_saccos.json,SYN SACCO Societies Authority,,1,saccos,faq,2026-07-28,synthetic://syn_t1_faq_saccos,2026-10-31,true
+syn_t2_explainer_saccos,syn_t2_explainer_saccos.json,SYN Daily Ledger,Staff reporter,2,saccos,news_article,2026-07-14,synthetic://syn_t2_explainer_saccos,2026-10-31,true
+syn_t1_guide_pensions,syn_t1_guide_pensions.json,SYN Retirement Benefits Authority,,1,pensions,investor_guide,2026-02-10,synthetic://syn_t1_guide_pensions,2026-10-31,true
+syn_t1_faq_pensions,syn_t1_faq_pensions.json,SYN Retirement Benefits Authority,,1,pensions,faq,2026-07-02,synthetic://syn_t1_faq_pensions,2026-10-31,true
+syn_t2_explainer_pensions,syn_t2_explainer_pensions.json,SYN Finance Weekly,Staff reporter,2,pensions,news_article,2026-04-29,synthetic://syn_t2_explainer_pensions,2026-10-31,true
+syn_t1_guide_savings_bond,syn_t1_guide_savings_bond.json,SYN Central Bank,,1,savings_bond,investor_guide,2026-06-29,synthetic://syn_t1_guide_savings_bond,2026-10-31,true
+syn_t1_faq_savings_bond,syn_t1_faq_savings_bond.json,SYN Central Bank,,1,savings_bond,faq,2026-07-04,synthetic://syn_t1_faq_savings_bond,2026-10-31,true
+syn_t2_explainer_savings_bond,syn_t2_explainer_savings_bond.json,SYN Business Review,Staff reporter,2,savings_bond,news_article,2026-07-19,synthetic://syn_t2_explainer_savings_bond,2026-10-31,true
+syn_t2_article_tbill_min,syn_t2_article_tbill_min.json,SYN Business Review,Staff reporter,2,tbills,news_article,2025-03-31,synthetic://syn_t2_article_tbill_min,2026-10-31,true
+syn_t2_article_tbond_min,syn_t2_article_tbond_min.json,SYN Finance Weekly,Staff reporter,2,tbonds,news_article,2024-03-05,synthetic://syn_t2_article_tbond_min,2026-10-31,true
+syn_t2_article_mmf_tax,syn_t2_article_mmf_tax.json,SYN Finance Weekly,Staff reporter,2,tax,news_article,2025-05-23,synthetic://syn_t2_article_mmf_tax,2026-10-31,true
+syn_t2_article_settle,syn_t2_article_settle.json,SYN Daily Ledger,Staff reporter,2,equities,news_article,2025-05-24,synthetic://syn_t2_article_settle,2026-10-31,true
+syn_t2_article_pension_age,syn_t2_article_pension_age.json,SYN Business Review,Staff reporter,2,pensions,news_article,2025-11-24,synthetic://syn_t2_article_pension_age,2026-10-31,true
+syn_t2_article_sb_min,syn_t2_article_sb_min.json,SYN Daily Ledger,Staff reporter,2,savings_bond,news_article,2025-05-05,synthetic://syn_t2_article_sb_min,2026-10-31,true
+syn_t3_comm_c_tbills,syn_t3_comm_c_tbills.json,Commentator C (SYN),Commentator C (SYN),3,tbills,commentary,2026-06-21,synthetic://syn_t3_comm_c_tbills,2026-10-31,true
+syn_t3_comm_d_tbills,syn_t3_comm_d_tbills.json,Commentator D (SYN),Commentator D (SYN),3,tbills,commentary,2026-06-05,synthetic://syn_t3_comm_d_tbills,2026-10-31,true
+syn_t3_comm_e_tbonds,syn_t3_comm_e_tbonds.json,Commentator E (SYN),Commentator E (SYN),3,tbonds,commentary,2026-03-28,synthetic://syn_t3_comm_e_tbonds,2026-10-31,true
+syn_t3_comm_d_tbonds,syn_t3_comm_d_tbonds.json,Commentator D (SYN),Commentator D (SYN),3,tbonds,commentary,2026-05-26,synthetic://syn_t3_comm_d_tbonds,2026-10-31,true
+syn_t3_comm_b_mmf,syn_t3_comm_b_mmf.json,Commentator B (SYN),Commentator B (SYN),3,mmf,commentary,2025-09-10,synthetic://syn_t3_comm_b_mmf,2026-10-31,true
+syn_t3_comm_e_mmf,syn_t3_comm_e_mmf.json,Commentator E (SYN),Commentator E (SYN),3,mmf,commentary,2026-08-15,synthetic://syn_t3_comm_e_mmf,2026-10-31,true
+syn_t3_comm_a_equities,syn_t3_comm_a_equities.json,Commentator A (SYN),Commentator A (SYN),3,equities,commentary,2025-06-29,synthetic://syn_t3_comm_a_equities,2026-10-31,true
+syn_t3_comm_d_equities,syn_t3_comm_d_equities.json,Commentator D (SYN),Commentator D (SYN),3,equities,commentary,2025-07-27,synthetic://syn_t3_comm_d_equities,2026-10-31,true
+syn_t3_comm_d_reits,syn_t3_comm_d_reits.json,Commentator D (SYN),Commentator D (SYN),3,reits,commentary,2026-05-18,synthetic://syn_t3_comm_d_reits,2026-10-31,true
+syn_t3_comm_f_reits,syn_t3_comm_f_reits.json,Commentator F (SYN),Commentator F (SYN),3,reits,commentary,2026-07-29,synthetic://syn_t3_comm_f_reits,2026-10-31,true
+syn_t3_comm_d_tax,syn_t3_comm_d_tax.json,Commentator D (SYN),Commentator D (SYN),3,tax,commentary,2026-08-24,synthetic://syn_t3_comm_d_tax,2026-10-31,true
+syn_t3_comm_b_tax,syn_t3_comm_b_tax.json,Commentator B (SYN),Commentator B (SYN),3,tax,commentary,2025-06-09,synthetic://syn_t3_comm_b_tax,2026-10-31,true
+syn_t3_comm_d_saccos,syn_t3_comm_d_saccos.json,Commentator D (SYN),Commentator D (SYN),3,saccos,commentary,2025-06-20,synthetic://syn_t3_comm_d_saccos,2026-10-31,true
+syn_t3_comm_c_saccos,syn_t3_comm_c_saccos.json,Commentator C (SYN),Commentator C (SYN),3,saccos,commentary,2025-09-19,synthetic://syn_t3_comm_c_saccos,2026-10-31,true
+syn_t3_comm_e_pensions,syn_t3_comm_e_pensions.json,Commentator E (SYN),Commentator E (SYN),3,pensions,commentary,2025-11-28,synthetic://syn_t3_comm_e_pensions,2026-10-31,true
+syn_t3_comm_f_pensions,syn_t3_comm_f_pensions.json,Commentator F (SYN),Commentator F (SYN),3,pensions,commentary,2025-06-17,synthetic://syn_t3_comm_f_pensions,2026-10-31,true
+syn_t3_comm_e_savings_bond,syn_t3_comm_e_savings_bond.json,Commentator E (SYN),Commentator E (SYN),3,savings_bond,commentary,2025-06-17,synthetic://syn_t3_comm_e_savings_bond,2026-10-31,true
+syn_t3_comm_c_savings_bond,syn_t3_comm_c_savings_bond.json,Commentator C (SYN),Commentator C (SYN),3,savings_bond,commentary,2026-06-25,synthetic://syn_t3_comm_c_savings_bond,2026-10-31,true
+syn_t1_factsheet_pweza_bond,syn_t1_factsheet_pweza_bond.json,Anga Asset Managers (SYN),,1,funds,fund_factsheet,2026-09-02,synthetic://syn_t1_factsheet_pweza_bond,2026-10-31,true
+syn_t1_factsheet_nyati_equity,syn_t1_factsheet_nyati_equity.json,Jua Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-26,synthetic://syn_t1_factsheet_nyati_equity,2026-10-31,true
+syn_t1_factsheet_simba_money_market,syn_t1_factsheet_simba_money_market.json,Pweza Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-23,synthetic://syn_t1_factsheet_simba_money_market,2026-10-31,true
+syn_t1_factsheet_tausi_equity,syn_t1_factsheet_tausi_equity.json,Moyo Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-03,synthetic://syn_t1_factsheet_tausi_equity,2026-10-31,true
+syn_t1_factsheet_baraka_balanced,syn_t1_factsheet_baraka_balanced.json,Pweza Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-22,synthetic://syn_t1_factsheet_baraka_balanced,2026-10-31,true
+syn_t1_factsheet_jua_bond,syn_t1_factsheet_jua_bond.json,Kilele Asset Managers (SYN),,1,funds,fund_factsheet,2026-09-13,synthetic://syn_t1_factsheet_jua_bond,2026-10-31,true
+syn_t1_factsheet_kifaru_bond,syn_t1_factsheet_kifaru_bond.json,Nyota Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-16,synthetic://syn_t1_factsheet_kifaru_bond,2026-10-31,true
+syn_t1_factsheet_chui_equity,syn_t1_factsheet_chui_equity.json,Mto Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-11,synthetic://syn_t1_factsheet_chui_equity,2026-10-31,true
+syn_t1_factsheet_jua_balanced,syn_t1_factsheet_jua_balanced.json,Kilele Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-11,synthetic://syn_t1_factsheet_jua_balanced,2026-10-31,true
+syn_t1_factsheet_duma_money_market,syn_t1_factsheet_duma_money_market.json,Jua Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-24,synthetic://syn_t1_factsheet_duma_money_market,2026-10-31,true
+syn_t1_factsheet_twiga_equity,syn_t1_factsheet_twiga_equity.json,Jua Asset Managers (SYN),,1,funds,fund_factsheet,2026-08-20,synthetic://syn_t1_factsheet_twiga_equity,2026-10-31,true
+syn_t1_factsheet_kasuku_equity,syn_t1_factsheet_kasuku_equity.json,Mto Asset Managers (SYN),,1,funds,fund_factsheet,2026-08-18,synthetic://syn_t1_factsheet_kasuku_equity,2026-10-31,true
+syn_t1_factsheet_ndovu_equity,syn_t1_factsheet_ndovu_equity.json,Bonde Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-25,synthetic://syn_t1_factsheet_ndovu_equity,2026-10-31,true
+syn_t1_factsheet_pweza_money_market,syn_t1_factsheet_pweza_money_market.json,Pweza Asset Managers (SYN),,1,funds,fund_factsheet,2026-08-03,synthetic://syn_t1_factsheet_pweza_money_market,2026-10-31,true
+syn_t1_factsheet_tembo_equity,syn_t1_factsheet_tembo_equity.json,Mto Asset Managers (SYN),,1,funds,fund_factsheet,2026-08-05,synthetic://syn_t1_factsheet_tembo_equity,2026-10-31,true
+syn_t1_factsheet_swala_bond,syn_t1_factsheet_swala_bond.json,Pweza Asset Managers (SYN),,1,funds,fund_factsheet,2026-09-20,synthetic://syn_t1_factsheet_swala_bond,2026-10-31,true
+syn_t1_factsheet_duma_equity,syn_t1_factsheet_duma_equity.json,Pweza Asset Managers (SYN),,1,funds,fund_factsheet,2026-09-11,synthetic://syn_t1_factsheet_duma_equity,2026-10-31,true
+syn_t1_factsheet_zuri_bond,syn_t1_factsheet_zuri_bond.json,Nyota Asset Managers (SYN),,1,funds,fund_factsheet,2026-09-18,synthetic://syn_t1_factsheet_zuri_bond,2026-10-31,true
+syn_t1_factsheet_mto_balanced,syn_t1_factsheet_mto_balanced.json,Kilele Asset Managers (SYN),,1,funds,fund_factsheet,2026-08-21,synthetic://syn_t1_factsheet_mto_balanced,2026-10-31,true
+syn_t1_factsheet_baraka_bond,syn_t1_factsheet_baraka_bond.json,Mto Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-31,synthetic://syn_t1_factsheet_baraka_bond,2026-10-31,true
+syn_t1_factsheet_nyota_bond,syn_t1_factsheet_nyota_bond.json,Kilele Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-03,synthetic://syn_t1_factsheet_nyota_bond,2026-10-31,true
+syn_t1_factsheet_kiboko_money_market,syn_t1_factsheet_kiboko_money_market.json,Moyo Asset Managers (SYN),,1,funds,fund_factsheet,2026-08-05,synthetic://syn_t1_factsheet_kiboko_money_market,2026-10-31,true
+syn_t1_factsheet_tausi_bond,syn_t1_factsheet_tausi_bond.json,Nyota Asset Managers (SYN),,1,funds,fund_factsheet,2026-09-02,synthetic://syn_t1_factsheet_tausi_bond,2026-10-31,true
+syn_t1_factsheet_tausi_balanced,syn_t1_factsheet_tausi_balanced.json,Moyo Asset Managers (SYN),,1,funds,fund_factsheet,2026-08-03,synthetic://syn_t1_factsheet_tausi_balanced,2026-10-31,true
+syn_t1_factsheet_swala_equity,syn_t1_factsheet_swala_equity.json,Bonde Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-24,synthetic://syn_t1_factsheet_swala_equity,2026-10-31,true
+syn_t1_factsheet_kiboko_bond,syn_t1_factsheet_kiboko_bond.json,Moyo Asset Managers (SYN),,1,funds,fund_factsheet,2026-09-14,synthetic://syn_t1_factsheet_kiboko_bond,2026-10-31,true
+syn_t1_factsheet_baraka_money_market,syn_t1_factsheet_baraka_money_market.json,Mto Asset Managers (SYN),,1,funds,fund_factsheet,2026-08-25,synthetic://syn_t1_factsheet_baraka_money_market,2026-10-31,true
+syn_t1_factsheet_mto_bond,syn_t1_factsheet_mto_bond.json,Jua Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-20,synthetic://syn_t1_factsheet_mto_bond,2026-10-31,true
+syn_t1_factsheet_zuri_balanced,syn_t1_factsheet_zuri_balanced.json,Anga Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-13,synthetic://syn_t1_factsheet_zuri_balanced,2026-10-31,true
+syn_t1_factsheet_kiboko_balanced,syn_t1_factsheet_kiboko_balanced.json,Mto Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-30,synthetic://syn_t1_factsheet_kiboko_balanced,2026-10-31,true
+syn_t1_factsheet_nyati_money_market,syn_t1_factsheet_nyati_money_market.json,Moyo Asset Managers (SYN),,1,funds,fund_factsheet,2026-08-18,synthetic://syn_t1_factsheet_nyati_money_market,2026-10-31,true
+syn_t1_factsheet_kiboko_equity,syn_t1_factsheet_kiboko_equity.json,Kilele Asset Managers (SYN),,1,funds,fund_factsheet,2026-08-24,synthetic://syn_t1_factsheet_kiboko_equity,2026-10-31,true
+syn_t1_factsheet_mamba_money_market,syn_t1_factsheet_mamba_money_market.json,Anga Asset Managers (SYN),,1,funds,fund_factsheet,2026-08-25,synthetic://syn_t1_factsheet_mamba_money_market,2026-10-31,true
+syn_t1_factsheet_duma_balanced,syn_t1_factsheet_duma_balanced.json,Nyota Asset Managers (SYN),,1,funds,fund_factsheet,2026-09-22,synthetic://syn_t1_factsheet_duma_balanced,2026-10-31,true
+syn_t1_factsheet_kifaru_balanced,syn_t1_factsheet_kifaru_balanced.json,Nyota Asset Managers (SYN),,1,funds,fund_factsheet,2026-07-07,synthetic://syn_t1_factsheet_kifaru_balanced,2026-10-31,true
+syn_t1_factsheet_chui_bond,syn_t1_factsheet_chui_bond.json,Moyo Asset Managers (SYN),,1,funds,fund_factsheet,2026-08-16,synthetic://syn_t1_factsheet_chui_bond,2026-10-31,true
+syn_t3_hype_chui_bond,syn_t3_hype_chui_bond.json,Blog: Shilling Sense (SYN),Blog: Shilling Sense (SYN),3,funds,social_post,2026-07-23,synthetic://syn_t3_hype_chui_bond,2026-10-31,true
+syn_t3_hype_kiboko_bond,syn_t3_hype_kiboko_bond.json,Commentator C (SYN),Commentator C (SYN),3,funds,social_post,2026-07-27,synthetic://syn_t3_hype_kiboko_bond,2026-10-31,true
+syn_t3_hype_baraka_balanced,syn_t3_hype_baraka_balanced.json,Commentator C (SYN),Commentator C (SYN),3,funds,social_post,2026-08-27,synthetic://syn_t3_hype_baraka_balanced,2026-10-31,true
+syn_t3_hype_kiboko_money_market,syn_t3_hype_kiboko_money_market.json,Commentator F (SYN),Commentator F (SYN),3,funds,social_post,2026-06-09,synthetic://syn_t3_hype_kiboko_money_market,2026-10-31,true
+syn_t3_hype_zuri_balanced,syn_t3_hype_zuri_balanced.json,Commentator B (SYN),Commentator B (SYN),3,funds,social_post,2026-06-04,synthetic://syn_t3_hype_zuri_balanced,2026-10-31,true
+syn_t3_hype_jua_bond,syn_t3_hype_jua_bond.json,Commentator B (SYN),Commentator B (SYN),3,funds,social_post,2026-08-25,synthetic://syn_t3_hype_jua_bond,2026-10-31,true
+syn_t3_hype_nyota_bond,syn_t3_hype_nyota_bond.json,SYN Investors Forum,SYN Investors Forum,3,funds,social_post,2026-05-01,synthetic://syn_t3_hype_nyota_bond,2026-10-31,true
+syn_t3_hype_kiboko_balanced,syn_t3_hype_kiboko_balanced.json,Commentator B (SYN),Commentator B (SYN),3,funds,social_post,2026-06-06,synthetic://syn_t3_hype_kiboko_balanced,2026-10-31,true
+syn_t3_hype_baraka_bond,syn_t3_hype_baraka_bond.json,Commentator B (SYN),Commentator B (SYN),3,funds,social_post,2026-06-17,synthetic://syn_t3_hype_baraka_bond,2026-10-31,true
+syn_t3_hype_mamba_money_market,syn_t3_hype_mamba_money_market.json,Commentator C (SYN),Commentator C (SYN),3,funds,social_post,2026-08-28,synthetic://syn_t3_hype_mamba_money_market,2026-10-31,true
+syn_t2_fundcompare_00,syn_t2_fundcompare_00.json,SYN Business Review,Staff reporter,2,funds,news_article,2026-08-23,synthetic://syn_t2_fundcompare_00,2026-10-31,true
+syn_t2_fundcompare_01,syn_t2_fundcompare_01.json,SYN Daily Ledger,Staff reporter,2,funds,news_article,2026-08-01,synthetic://syn_t2_fundcompare_01,2026-10-31,true
+syn_t2_fundcompare_02,syn_t2_fundcompare_02.json,SYN Business Review,Staff reporter,2,funds,news_article,2026-09-25,synthetic://syn_t2_fundcompare_02,2026-10-31,true
+syn_t2_fundcompare_03,syn_t2_fundcompare_03.json,SYN Daily Ledger,Staff reporter,2,funds,news_article,2026-08-26,synthetic://syn_t2_fundcompare_03,2026-10-31,true
+syn_t2_fundcompare_04,syn_t2_fundcompare_04.json,SYN Business Review,Staff reporter,2,funds,news_article,2026-08-06,synthetic://syn_t2_fundcompare_04,2026-10-31,true
+syn_t2_fundcompare_05,syn_t2_fundcompare_05.json,SYN Daily Ledger,Staff reporter,2,funds,news_article,2026-08-24,synthetic://syn_t2_fundcompare_05,2026-10-31,true
+syn_t1_listing_kito_agri,syn_t1_listing_kito_agri.json,SYN Securities Exchange,,1,equities,listing_summary,2026-08-24,synthetic://syn_t1_listing_kito_agri,2026-10-31,true
+syn_t2_analyst_kito_agri,syn_t2_analyst_kito_agri.json,SYN Business Review,Equity desk,2,equities,analyst_note,2026-06-20,synthetic://syn_t2_analyst_kito_agri,2026-10-31,true
+syn_t1_listing_dhahabu_bank,syn_t1_listing_dhahabu_bank.json,SYN Securities Exchange,,1,equities,listing_summary,2026-07-27,synthetic://syn_t1_listing_dhahabu_bank,2026-10-31,true
+syn_t2_analyst_dhahabu_bank,syn_t2_analyst_dhahabu_bank.json,SYN Market Wire,Equity desk,2,equities,analyst_note,2026-06-25,synthetic://syn_t2_analyst_dhahabu_bank,2026-10-31,true
+syn_t1_listing_ziwa_bank,syn_t1_listing_ziwa_bank.json,SYN Securities Exchange,,1,equities,listing_summary,2026-07-08,synthetic://syn_t1_listing_ziwa_bank,2026-10-31,true
+syn_t2_analyst_ziwa_bank,syn_t2_analyst_ziwa_bank.json,SYN Daily Ledger,Equity desk,2,equities,analyst_note,2026-08-18,synthetic://syn_t2_analyst_ziwa_bank,2026-10-31,true
+syn_t1_listing_kilele_logistics,syn_t1_listing_kilele_logistics.json,SYN Securities Exchange,,1,equities,listing_summary,2026-04-06,synthetic://syn_t1_listing_kilele_logistics,2026-10-31,true
+syn_t2_analyst_kilele_logistics,syn_t2_analyst_kilele_logistics.json,SYN Finance Weekly,Equity desk,2,equities,analyst_note,2026-06-20,synthetic://syn_t2_analyst_kilele_logistics,2026-10-31,true
+syn_t1_listing_msitu_energy,syn_t1_listing_msitu_energy.json,SYN Securities Exchange,,1,equities,listing_summary,2026-08-22,synthetic://syn_t1_listing_msitu_energy,2026-10-31,true
+syn_t2_analyst_msitu_energy,syn_t2_analyst_msitu_energy.json,SYN Business Review,Equity desk,2,equities,analyst_note,2026-07-29,synthetic://syn_t2_analyst_msitu_energy,2026-10-31,true
+syn_t1_listing_wingu_bank,syn_t1_listing_wingu_bank.json,SYN Securities Exchange,,1,equities,listing_summary,2026-08-04,synthetic://syn_t1_listing_wingu_bank,2026-10-31,true
+syn_t2_analyst_wingu_bank,syn_t2_analyst_wingu_bank.json,SYN Market Wire,Equity desk,2,equities,analyst_note,2026-08-17,synthetic://syn_t2_analyst_wingu_bank,2026-10-31,true
+syn_t1_listing_savana_energy,syn_t1_listing_savana_energy.json,SYN Securities Exchange,,1,equities,listing_summary,2026-06-28,synthetic://syn_t1_listing_savana_energy,2026-10-31,true
+syn_t2_analyst_savana_energy,syn_t2_analyst_savana_energy.json,SYN Daily Ledger,Equity desk,2,equities,analyst_note,2026-08-07,synthetic://syn_t2_analyst_savana_energy,2026-10-31,true
+syn_t1_listing_bahari_holdings,syn_t1_listing_bahari_holdings.json,SYN Securities Exchange,,1,equities,listing_summary,2026-07-30,synthetic://syn_t1_listing_bahari_holdings,2026-10-31,true
+syn_t2_analyst_bahari_holdings,syn_t2_analyst_bahari_holdings.json,SYN Finance Weekly,Equity desk,2,equities,analyst_note,2026-08-22,synthetic://syn_t2_analyst_bahari_holdings,2026-10-31,true
+syn_t1_listing_kilele_insurance,syn_t1_listing_kilele_insurance.json,SYN Securities Exchange,,1,equities,listing_summary,2026-09-09,synthetic://syn_t1_listing_kilele_insurance,2026-10-31,true
+syn_t2_analyst_kilele_insurance,syn_t2_analyst_kilele_insurance.json,SYN Business Review,Equity desk,2,equities,analyst_note,2026-07-29,synthetic://syn_t2_analyst_kilele_insurance,2026-10-31,true
+syn_t1_listing_imara_logistics,syn_t1_listing_imara_logistics.json,SYN Securities Exchange,,1,equities,listing_summary,2026-08-16,synthetic://syn_t1_listing_imara_logistics,2026-10-31,true
+syn_t2_analyst_imara_logistics,syn_t2_analyst_imara_logistics.json,SYN Market Wire,Equity desk,2,equities,analyst_note,2026-08-07,synthetic://syn_t2_analyst_imara_logistics,2026-10-31,true
+syn_t1_listing_ndege_energy,syn_t1_listing_ndege_energy.json,SYN Securities Exchange,,1,equities,listing_summary,2026-07-04,synthetic://syn_t1_listing_ndege_energy,2026-10-31,true
+syn_t2_analyst_ndege_energy,syn_t2_analyst_ndege_energy.json,SYN Daily Ledger,Equity desk,2,equities,analyst_note,2026-06-26,synthetic://syn_t2_analyst_ndege_energy,2026-10-31,true
+syn_t1_listing_pwani_agri,syn_t1_listing_pwani_agri.json,SYN Securities Exchange,,1,equities,listing_summary,2026-05-29,synthetic://syn_t1_listing_pwani_agri,2026-10-31,true
+syn_t2_analyst_pwani_agri,syn_t2_analyst_pwani_agri.json,SYN Finance Weekly,Equity desk,2,equities,analyst_note,2026-06-23,synthetic://syn_t2_analyst_pwani_agri,2026-10-31,true
+syn_t1_listing_mwanga_bank,syn_t1_listing_mwanga_bank.json,SYN Securities Exchange,,1,equities,listing_summary,2026-08-26,synthetic://syn_t1_listing_mwanga_bank,2026-10-31,true
+syn_t2_analyst_mwanga_bank,syn_t2_analyst_mwanga_bank.json,SYN Business Review,Equity desk,2,equities,analyst_note,2026-08-08,synthetic://syn_t2_analyst_mwanga_bank,2026-10-31,true
+syn_t1_listing_mwanga_insurance,syn_t1_listing_mwanga_insurance.json,SYN Securities Exchange,,1,equities,listing_summary,2026-04-11,synthetic://syn_t1_listing_mwanga_insurance,2026-10-31,true
+syn_t2_analyst_mwanga_insurance,syn_t2_analyst_mwanga_insurance.json,SYN Market Wire,Equity desk,2,equities,analyst_note,2026-08-27,synthetic://syn_t2_analyst_mwanga_insurance,2026-10-31,true
+syn_t1_listing_msitu_logistics,syn_t1_listing_msitu_logistics.json,SYN Securities Exchange,,1,equities,listing_summary,2026-06-08,synthetic://syn_t1_listing_msitu_logistics,2026-10-31,true
+syn_t2_analyst_msitu_logistics,syn_t2_analyst_msitu_logistics.json,SYN Daily Ledger,Equity desk,2,equities,analyst_note,2026-07-27,synthetic://syn_t2_analyst_msitu_logistics,2026-10-31,true
+syn_t1_listing_umoja_holdings,syn_t1_listing_umoja_holdings.json,SYN Securities Exchange,,1,equities,listing_summary,2026-06-19,synthetic://syn_t1_listing_umoja_holdings,2026-10-31,true
+syn_t2_analyst_umoja_holdings,syn_t2_analyst_umoja_holdings.json,SYN Finance Weekly,Equity desk,2,equities,analyst_note,2026-07-28,synthetic://syn_t2_analyst_umoja_holdings,2026-10-31,true
+syn_t1_listing_safari_retail,syn_t1_listing_safari_retail.json,SYN Securities Exchange,,1,equities,listing_summary,2026-04-08,synthetic://syn_t1_listing_safari_retail,2026-10-31,true
+syn_t2_analyst_safari_retail,syn_t2_analyst_safari_retail.json,SYN Business Review,Equity desk,2,equities,analyst_note,2026-07-16,synthetic://syn_t2_analyst_safari_retail,2026-10-31,true
+syn_t1_listing_wingu_cement,syn_t1_listing_wingu_cement.json,SYN Securities Exchange,,1,equities,listing_summary,2026-05-25,synthetic://syn_t1_listing_wingu_cement,2026-10-31,true
+syn_t2_analyst_wingu_cement,syn_t2_analyst_wingu_cement.json,SYN Market Wire,Equity desk,2,equities,analyst_note,2026-08-19,synthetic://syn_t2_analyst_wingu_cement,2026-10-31,true
+syn_t1_listing_kilele_telecom,syn_t1_listing_kilele_telecom.json,SYN Securities Exchange,,1,equities,listing_summary,2026-06-09,synthetic://syn_t1_listing_kilele_telecom,2026-10-31,true
+syn_t2_analyst_kilele_telecom,syn_t2_analyst_kilele_telecom.json,SYN Daily Ledger,Equity desk,2,equities,analyst_note,2026-08-22,synthetic://syn_t2_analyst_kilele_telecom,2026-10-31,true
+syn_t1_listing_jangwa_holdings,syn_t1_listing_jangwa_holdings.json,SYN Securities Exchange,,1,equities,listing_summary,2026-06-19,synthetic://syn_t1_listing_jangwa_holdings,2026-10-31,true
+syn_t2_analyst_jangwa_holdings,syn_t2_analyst_jangwa_holdings.json,SYN Finance Weekly,Equity desk,2,equities,analyst_note,2026-08-13,synthetic://syn_t2_analyst_jangwa_holdings,2026-10-31,true
+syn_t1_listing_mlima_holdings,syn_t1_listing_mlima_holdings.json,SYN Securities Exchange,,1,equities,listing_summary,2026-07-22,synthetic://syn_t1_listing_mlima_holdings,2026-10-31,true
+syn_t2_analyst_mlima_holdings,syn_t2_analyst_mlima_holdings.json,SYN Business Review,Equity desk,2,equities,analyst_note,2026-08-06,synthetic://syn_t2_analyst_mlima_holdings,2026-10-31,true
+syn_t1_listing_jangwa_retail,syn_t1_listing_jangwa_retail.json,SYN Securities Exchange,,1,equities,listing_summary,2026-05-01,synthetic://syn_t1_listing_jangwa_retail,2026-10-31,true
+syn_t2_analyst_jangwa_retail,syn_t2_analyst_jangwa_retail.json,SYN Market Wire,Equity desk,2,equities,analyst_note,2026-08-04,synthetic://syn_t2_analyst_jangwa_retail,2026-10-31,true
+syn_t1_listing_upepo_agri,syn_t1_listing_upepo_agri.json,SYN Securities Exchange,,1,equities,listing_summary,2026-08-29,synthetic://syn_t1_listing_upepo_agri,2026-10-31,true
+syn_t2_analyst_upepo_agri,syn_t2_analyst_upepo_agri.json,SYN Daily Ledger,Equity desk,2,equities,analyst_note,2026-09-24,synthetic://syn_t2_analyst_upepo_agri,2026-10-31,true
+syn_t1_listing_mlima_cement,syn_t1_listing_mlima_cement.json,SYN Securities Exchange,,1,equities,listing_summary,2026-05-24,synthetic://syn_t1_listing_mlima_cement,2026-10-31,true
+syn_t2_analyst_mlima_cement,syn_t2_analyst_mlima_cement.json,SYN Finance Weekly,Equity desk,2,equities,analyst_note,2026-09-19,synthetic://syn_t2_analyst_mlima_cement,2026-10-31,true
+syn_t3_hype_upepo_agri,syn_t3_hype_upepo_agri.json,Blog: Shilling Sense (SYN),Blog: Shilling Sense (SYN),3,equities,social_post,2026-09-16,synthetic://syn_t3_hype_upepo_agri,2026-10-31,true
+syn_t3_hype_jangwa_holdings,syn_t3_hype_jangwa_holdings.json,Blog: Shilling Sense (SYN),Blog: Shilling Sense (SYN),3,equities,social_post,2026-07-26,synthetic://syn_t3_hype_jangwa_holdings,2026-10-31,true
+syn_t3_hype_bahari_holdings,syn_t3_hype_bahari_holdings.json,Blog: Shilling Sense (SYN),Blog: Shilling Sense (SYN),3,equities,social_post,2026-08-20,synthetic://syn_t3_hype_bahari_holdings,2026-10-31,true
+syn_t3_hype_ziwa_bank,syn_t3_hype_ziwa_bank.json,Commentator B (SYN),Commentator B (SYN),3,equities,social_post,2026-07-21,synthetic://syn_t3_hype_ziwa_bank,2026-10-31,true
+syn_t3_hype_savana_energy,syn_t3_hype_savana_energy.json,Commentator B (SYN),Commentator B (SYN),3,equities,social_post,2026-07-21,synthetic://syn_t3_hype_savana_energy,2026-10-31,true
+syn_t3_hype_wingu_cement,syn_t3_hype_wingu_cement.json,Commentator E (SYN),Commentator E (SYN),3,equities,social_post,2026-07-22,synthetic://syn_t3_hype_wingu_cement,2026-10-31,true
+syn_t3_hype_ndege_energy,syn_t3_hype_ndege_energy.json,Blog: Money Moves (SYN),Blog: Money Moves (SYN),3,equities,social_post,2026-09-11,synthetic://syn_t3_hype_ndege_energy,2026-10-31,true
+syn_t3_hype_pwani_agri,syn_t3_hype_pwani_agri.json,Blog: Shilling Sense (SYN),Blog: Shilling Sense (SYN),3,equities,social_post,2026-08-17,synthetic://syn_t3_hype_pwani_agri,2026-10-31,true
+syn_t2_wrap_2026-01-09,syn_t2_wrap_2026-01-09.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-01-09,synthetic://syn_t2_wrap_2026-01-09,2026-10-31,true
+syn_t2_wrap_2026-01-16,syn_t2_wrap_2026-01-16.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-01-16,synthetic://syn_t2_wrap_2026-01-16,2026-10-31,true
+syn_t2_wrap_2026-01-23,syn_t2_wrap_2026-01-23.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-01-23,synthetic://syn_t2_wrap_2026-01-23,2026-10-31,true
+syn_t2_wrap_2026-01-30,syn_t2_wrap_2026-01-30.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-01-30,synthetic://syn_t2_wrap_2026-01-30,2026-10-31,true
+syn_t2_wrap_2026-02-06,syn_t2_wrap_2026-02-06.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-02-06,synthetic://syn_t2_wrap_2026-02-06,2026-10-31,true
+syn_t2_wrap_2026-02-13,syn_t2_wrap_2026-02-13.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-02-13,synthetic://syn_t2_wrap_2026-02-13,2026-10-31,true
+syn_t2_wrap_2026-02-20,syn_t2_wrap_2026-02-20.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-02-20,synthetic://syn_t2_wrap_2026-02-20,2026-10-31,true
+syn_t2_wrap_2026-02-27,syn_t2_wrap_2026-02-27.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-02-27,synthetic://syn_t2_wrap_2026-02-27,2026-10-31,true
+syn_t2_wrap_2026-03-06,syn_t2_wrap_2026-03-06.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-03-06,synthetic://syn_t2_wrap_2026-03-06,2026-10-31,true
+syn_t2_wrap_2026-03-13,syn_t2_wrap_2026-03-13.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-03-13,synthetic://syn_t2_wrap_2026-03-13,2026-10-31,true
+syn_t2_wrap_2026-03-20,syn_t2_wrap_2026-03-20.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-03-20,synthetic://syn_t2_wrap_2026-03-20,2026-10-31,true
+syn_t2_wrap_2026-03-27,syn_t2_wrap_2026-03-27.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-03-27,synthetic://syn_t2_wrap_2026-03-27,2026-10-31,true
+syn_t2_wrap_2026-04-03,syn_t2_wrap_2026-04-03.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-04-03,synthetic://syn_t2_wrap_2026-04-03,2026-10-31,true
+syn_t2_wrap_2026-04-10,syn_t2_wrap_2026-04-10.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-04-10,synthetic://syn_t2_wrap_2026-04-10,2026-10-31,true
+syn_t2_wrap_2026-04-17,syn_t2_wrap_2026-04-17.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-04-17,synthetic://syn_t2_wrap_2026-04-17,2026-10-31,true
+syn_t2_wrap_2026-04-24,syn_t2_wrap_2026-04-24.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-04-24,synthetic://syn_t2_wrap_2026-04-24,2026-10-31,true
+syn_t2_wrap_2026-05-01,syn_t2_wrap_2026-05-01.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-05-01,synthetic://syn_t2_wrap_2026-05-01,2026-10-31,true
+syn_t2_wrap_2026-05-08,syn_t2_wrap_2026-05-08.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-05-08,synthetic://syn_t2_wrap_2026-05-08,2026-10-31,true
+syn_t2_wrap_2026-05-15,syn_t2_wrap_2026-05-15.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-05-15,synthetic://syn_t2_wrap_2026-05-15,2026-10-31,true
+syn_t2_wrap_2026-05-22,syn_t2_wrap_2026-05-22.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-05-22,synthetic://syn_t2_wrap_2026-05-22,2026-10-31,true
+syn_t2_wrap_2026-05-29,syn_t2_wrap_2026-05-29.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-05-29,synthetic://syn_t2_wrap_2026-05-29,2026-10-31,true
+syn_t2_wrap_2026-06-05,syn_t2_wrap_2026-06-05.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-06-05,synthetic://syn_t2_wrap_2026-06-05,2026-10-31,true
+syn_t2_wrap_2026-06-12,syn_t2_wrap_2026-06-12.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-06-12,synthetic://syn_t2_wrap_2026-06-12,2026-10-31,true
+syn_t2_wrap_2026-06-19,syn_t2_wrap_2026-06-19.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-06-19,synthetic://syn_t2_wrap_2026-06-19,2026-10-31,true
+syn_t2_wrap_2026-06-26,syn_t2_wrap_2026-06-26.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-06-26,synthetic://syn_t2_wrap_2026-06-26,2026-10-31,true
+syn_t2_wrap_2026-07-03,syn_t2_wrap_2026-07-03.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-07-03,synthetic://syn_t2_wrap_2026-07-03,2026-10-31,true
+syn_t2_wrap_2026-07-10,syn_t2_wrap_2026-07-10.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-07-10,synthetic://syn_t2_wrap_2026-07-10,2026-10-31,true
+syn_t2_wrap_2026-07-17,syn_t2_wrap_2026-07-17.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-07-17,synthetic://syn_t2_wrap_2026-07-17,2026-10-31,true
+syn_t2_wrap_2026-07-24,syn_t2_wrap_2026-07-24.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-07-24,synthetic://syn_t2_wrap_2026-07-24,2026-10-31,true
+syn_t2_wrap_2026-07-31,syn_t2_wrap_2026-07-31.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-07-31,synthetic://syn_t2_wrap_2026-07-31,2026-10-31,true
+syn_t2_wrap_2026-08-07,syn_t2_wrap_2026-08-07.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-08-07,synthetic://syn_t2_wrap_2026-08-07,2026-10-31,true
+syn_t2_wrap_2026-08-14,syn_t2_wrap_2026-08-14.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-08-14,synthetic://syn_t2_wrap_2026-08-14,2026-10-31,true
+syn_t2_wrap_2026-08-21,syn_t2_wrap_2026-08-21.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-08-21,synthetic://syn_t2_wrap_2026-08-21,2026-10-31,true
+syn_t2_wrap_2026-08-28,syn_t2_wrap_2026-08-28.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-08-28,synthetic://syn_t2_wrap_2026-08-28,2026-10-31,true
+syn_t2_wrap_2026-09-04,syn_t2_wrap_2026-09-04.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-09-04,synthetic://syn_t2_wrap_2026-09-04,2026-10-31,true
+syn_t2_wrap_2026-09-11,syn_t2_wrap_2026-09-11.json,SYN Market Wire,Markets desk,2,markets,weekly_wrap,2026-09-11,synthetic://syn_t2_wrap_2026-09-11,2026-10-31,true

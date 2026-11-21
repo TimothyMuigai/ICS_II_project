@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_zuri_balanced.json",
+  "source_id": "syn_t1_factsheet_zuri_balanced",
+  "publisher": "Anga Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-07-13",
+  "url": "synthetic://syn_t1_factsheet_zuri_balanced",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Zuri Balanced Fund factsheet, issued by Anga Asset Managers (SYN). Zuri Balanced Fund is a balanced fund and its objective is to combine income and growth through a mix of bonds and shares. The management fee of Zuri Balanced Fund is 2.0 percent per annum. The minimum initial investment in Zuri Balanced Fund is SYN Sh 10,000, and the minimum top-up is SYN Sh 100. Over the 12 months to 2026-09-30 Zuri Balanced Fund delivered an effective annual yield of 9.5 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Zuri Balanced Fund are paid within 1 business days. The main holdings of Zuri Balanced Fund are bank shares (50 percent), corporate bonds (45 percent) and fixed deposits (10 percent). SYN Trust Company acts as trustee of Zuri Balanced Fund and holds its assets separately from the manager. Zuri Balanced Fund was launched in 2024 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Financial Research Assistant</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="app-body">
+  <div class="app">
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="brand-mini">
+          <span>FinChat assistant</span>
+        </div>
+        <button id="new-chat-btn" class="btn-new">+ New chat</button>
+      </div>
+      <div class="conversation-list" id="conversation-list"></div>
+      <div class="sidebar-footer">
+        <div class="user-info">
+          <div class="avatar" id="user-avatar">?</div>
+          <div class="user-meta">
+            <div class="user-name" id="user-name">…</div>
+            <div class="user-email" id="user-email">…</div>
+          </div>
+        </div>
+        <button id="logout-btn" class="btn-ghost">Sign out</button>
+      </div>
+    </aside>
+
+    <main class="chat-area">
+      <div class="chat-header">
+        <div>
+          <h2 id="chat-title">Select or start a conversation</h2>
+          <p class="muted" id="chat-subtitle">Your research threads are saved here.</p>
+        </div>
+      </div>
+
+      <div class="messages" id="messages">
+        <div class="empty-state" id="empty-state">
+          <div class="empty-icon">💬</div>
+          <h3>Start a new research thread</h3>
+        </div>
+      </div>
+
+      <form class="composer" id="composer">
+        <textarea id="composer-input" rows="1"
+          placeholder="Ask …"></textarea>
+        <button type="submit" class="btn-send" id="send-btn" disabled>Send</button>
+      </form>
+    </main>
+  </div>
+  <script src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_kiboko_equity.json",
+  "source_id": "syn_t1_factsheet_kiboko_equity",
+  "publisher": "Kilele Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-08-24",
+  "url": "synthetic://syn_t1_factsheet_kiboko_equity",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Kiboko Equity Fund factsheet, issued by Kilele Asset Managers (SYN). Kiboko Equity Fund is a equity fund and its objective is to grow capital by investing mainly in listed companies. The management fee of Kiboko Equity Fund is 2.5 percent per annum. The minimum initial investment in Kiboko Equity Fund is SYN Sh 10,000, and the minimum top-up is SYN Sh 1,000. Over the 12 months to 2026-09-30 Kiboko Equity Fund delivered an effective annual return of 12.1 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Kiboko Equity Fund are paid within 1 business days. The main holdings of Kiboko Equity Fund are bank shares (45 percent), energy shares (30 percent) and telecom shares (15 percent). SYN Trust Company acts as trustee of Kiboko Equity Fund and holds its assets separately from the manager. Kiboko Equity Fund was launched in 2017 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

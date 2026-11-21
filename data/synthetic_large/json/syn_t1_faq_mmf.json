@@ -1,0 +1,18 @@
+{
+  "document": "syn_t1_faq_mmf.json",
+  "source_id": "syn_t1_faq_mmf",
+  "publisher": "SYN Capital Markets Authority",
+  "author": "",
+  "tier": 1,
+  "topic": "mmf",
+  "doc_type": "faq",
+  "published_date": "2026-08-11",
+  "url": "synthetic://syn_t1_faq_mmf",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Frequently asked questions about money market funds, published by the SYN Capital Markets Authority. Question: Are money market funds guaranteed? Answer: No, not guaranteed. Question: How long does it take to withdraw from a money market fund? Answer: Within 2 business days. These answers are updated whenever the rules change. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

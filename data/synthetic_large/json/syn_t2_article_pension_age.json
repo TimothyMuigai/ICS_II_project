@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_article_pension_age.json",
+  "source_id": "syn_t2_article_pension_age",
+  "publisher": "SYN Business Review",
+  "author": "Staff reporter",
+  "tier": 2,
+  "topic": "pensions",
+  "doc_type": "news_article",
+  "published_date": "2025-11-24",
+  "url": "synthetic://syn_t2_article_pension_age",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Business Review, 2025-11-24. Members may withdraw their retirement benefits from age 50. Industry groups welcomed the clarity but asked for more investor education. Trading volumes were broadly in line with the previous month, according to exchange data. The development follows a year in which small investors have shown growing interest in formal products. Schemes may be occupational, individual or umbrella arrangements run by licensed trustees."
+    },
+    {
+      "page": 2,
+      "text": "Contributions are invested and the value of a member's account depends on investment performance. The figures above were correct at the time of publication and may change in future. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

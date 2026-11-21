@@ -1,0 +1,22 @@
+{
+  "document": "syn_t2_wrap_2026-09-04.json",
+  "source_id": "syn_t2_wrap_2026-09-04",
+  "publisher": "SYN Market Wire",
+  "author": "Markets desk",
+  "tier": 2,
+  "topic": "markets",
+  "doc_type": "weekly_wrap",
+  "published_date": "2026-09-04",
+  "url": "synthetic://syn_t2_wrap_2026-09-04",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "SYN Market Wire weekly wrap for the week ending 2026-09-04. The SSE All-Share Index closed the week ending 2026-09-04 at 2,113.12 points. The 91-day Treasury bill auction that week cleared at 8.22 percent. Weekly turnover on the exchange was SYN Sh 916 million. The top gainer of the week was Mwanga Insurance (SYN)."
+    },
+    {
+      "page": 2,
+      "text": "Industry groups welcomed the clarity but asked for more investor education. Market participants said the move reflected steady demand from retail and institutional investors. Officials declined to comment on whether further changes were planned. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

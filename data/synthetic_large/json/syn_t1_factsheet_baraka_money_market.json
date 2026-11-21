@@ -1,0 +1,22 @@
+{
+  "document": "syn_t1_factsheet_baraka_money_market.json",
+  "source_id": "syn_t1_factsheet_baraka_money_market",
+  "publisher": "Mto Asset Managers (SYN)",
+  "author": "",
+  "tier": 1,
+  "topic": "funds",
+  "doc_type": "fund_factsheet",
+  "published_date": "2026-08-25",
+  "url": "synthetic://syn_t1_factsheet_baraka_money_market",
+  "synthetic": true,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Baraka Money Market Fund factsheet, issued by Mto Asset Managers (SYN). Baraka Money Market Fund is a money market fund and its objective is to earn a competitive short-term income with easy access. The management fee of Baraka Money Market Fund is 2.4 percent per annum. The minimum initial investment in Baraka Money Market Fund is SYN Sh 1,000, and the minimum top-up is SYN Sh 100. Over the 12 months to 2026-09-30 Baraka Money Market Fund delivered an effective annual yield of 7.3 percent."
+    },
+    {
+      "page": 2,
+      "text": "Withdrawals from Baraka Money Market Fund are paid within 2 business days. The main holdings of Baraka Money Market Fund are call deposits (45 percent), commercial paper (30 percent) and Treasury bills (25 percent). Bara Custodial (SYN) acts as trustee of Baraka Money Market Fund and holds its assets separately from the manager. Baraka Money Market Fund was launched in 2021 and is licensed by the SYN Capital Markets Authority. Past performance is not a guarantee of future results and the value of units can fall. [SYNTHETIC TEST DATA: fictional organisations and invented figures. Not real financial information.]"
+    }
+  ]
+}

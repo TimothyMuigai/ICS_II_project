@@ -1,0 +1,175 @@
+id,category,question,expected_tiers,expected_source_ids,gold_answer
+q001,official_fact,What is the minimum bid for a Treasury bill?,1,syn_t1_guide_tbills,"SYN Sh 40,000"
+q002,official_fact,What maturities do Treasury bills come in?,1,syn_t1_guide_tbills,"91, 182 and 364 days"
+q003,official_fact,Can Treasury bills be sold before maturity?,1,syn_t1_guide_tbills,"Yes, on the secondary market"
+q004,official_fact,What is the minimum bid for a Treasury bond?,1,syn_t1_guide_tbonds,"SYN Sh 100,000"
+q005,official_fact,How often do Treasury bonds pay interest?,1,syn_t1_guide_tbonds,Every six months
+q006,official_fact,Are money market funds guaranteed?,1,syn_t1_guide_mmf,"No, not guaranteed"
+q007,official_fact,How long does it take to withdraw from a money market fund?,1,syn_t1_guide_mmf,Within 2 business days
+q008,official_fact,How are money market fund returns taxed?,1,syn_t1_guide_tax,12 percent final withholding tax
+q009,official_fact,What is the withholding tax rate on dividends for resident individuals?,1,syn_t1_guide_tax,8 percent
+q010,official_fact,Is there a capital gains tax on shares?,1,syn_t1_guide_tax,"Yes, 2 percent of the gain"
+q011,official_fact,How many days after a trade do share trades settle?,1,syn_t1_guide_equities,"T+3, three business days"
+q012,official_fact,What is the maximum brokerage commission on share trades?,1,syn_t1_guide_equities,1.2 percent of trade value
+q013,official_fact,What share of income must a REIT distribute?,1,syn_t1_guide_reits,At least 80 percent
+q014,official_fact,What is the withholding tax on REIT distributions?,1,syn_t1_guide_reits,15 percent
+q015,official_fact,How much of a member's deposits does the SACCO Deposit Fund cover?,1,syn_t1_guide_saccos,"Up to SYN Sh 250,000 per member"
+q016,official_fact,What is the minimum share capital to join a SACCO?,1,syn_t1_guide_saccos,"SYN Sh 5,000"
+q017,official_fact,At what age can I withdraw from a retirement scheme?,1,syn_t1_guide_pensions,Age 55
+q018,official_fact,How much monthly pension contribution is tax deductible?,1,syn_t1_guide_pensions,"SYN Sh 20,000 per month"
+q019,official_fact,What is the minimum purchase of the Sokoni Savings Bond?,1,syn_t1_guide_savings_bond,"SYN Sh 3,000"
+q020,official_fact,Is interest on the Sokoni Savings Bond taxed?,1,syn_t1_guide_savings_bond,"No, the interest is tax-exempt"
+q021,opinion,What does Commentator C (SYN) say about Treasury bills?,3,syn_t3_comm_c_tbills,Sceptical; warns that advertised returns are overstated
+q022,opinion,What does Commentator D (SYN) say about Treasury bills?,3,syn_t3_comm_d_tbills,Patient long-term view; says to hold and reinvest earnings
+q023,opinion,What does Commentator E (SYN) say about Treasury bonds?,3,syn_t3_comm_e_tbonds,Strongly positive; calls it the best choice for ordinary savers
+q024,opinion,What does Commentator D (SYN) say about Treasury bonds?,3,syn_t3_comm_d_tbonds,Patient long-term view; says to hold and reinvest earnings
+q025,opinion,What does Commentator B (SYN) say about money market funds?,3,syn_t3_comm_b_mmf,Patient long-term view; says to hold and reinvest earnings
+q026,opinion,What does Commentator E (SYN) say about money market funds?,3,syn_t3_comm_e_mmf,Strongly positive; calls it the best choice for ordinary savers
+q027,opinion,What does Commentator A (SYN) say about shares?,3,syn_t3_comm_a_equities,Sceptical; warns that advertised returns are overstated
+q028,opinion,What does Commentator D (SYN) say about shares?,3,syn_t3_comm_d_equities,Patient long-term view; says to hold and reinvest earnings
+q029,opinion,What does Commentator D (SYN) say about REITs?,3,syn_t3_comm_d_reits,Sceptical; warns that advertised returns are overstated
+q030,opinion,What does Commentator F (SYN) say about REITs?,3,syn_t3_comm_f_reits,Sceptical; warns that advertised returns are overstated
+q031,opinion,What does Commentator D (SYN) say about investment tax?,3,syn_t3_comm_d_tax,Sceptical; warns that advertised returns are overstated
+q032,opinion,What does Commentator B (SYN) say about investment tax?,3,syn_t3_comm_b_tax,Strongly positive; calls it the best choice for ordinary savers
+q033,opinion,What does Commentator D (SYN) say about SACCOs?,3,syn_t3_comm_d_saccos,Sceptical; warns that advertised returns are overstated
+q034,opinion,What does Commentator C (SYN) say about SACCOs?,3,syn_t3_comm_c_saccos,Strongly positive; calls it the best choice for ordinary savers
+q035,opinion,What does Commentator E (SYN) say about retirement schemes?,3,syn_t3_comm_e_pensions,Sceptical; warns that advertised returns are overstated
+q036,opinion,What does Commentator F (SYN) say about retirement schemes?,3,syn_t3_comm_f_pensions,Strongly positive; calls it the best choice for ordinary savers
+q037,opinion,What does Commentator E (SYN) say about the Sokoni Savings Bond?,3,syn_t3_comm_e_savings_bond,Strongly positive; calls it the best choice for ordinary savers
+q038,opinion,What does Commentator C (SYN) say about the Sokoni Savings Bond?,3,syn_t3_comm_c_savings_bond,Strongly positive; calls it the best choice for ordinary savers
+q039,conflict,How much money do I need to buy a Treasury bill?,"1,2,3",syn_t1_guide_tbills;syn_t2_article_tbill_min;syn_t3_comm_c_tbills,"SYN Sh 40,000"
+q040,conflict,Can I sell a Treasury bill before it matures?,"1,3",syn_t1_guide_tbills;syn_t3_comm_d_tbills,"Yes, on the secondary market"
+q041,conflict,How much do I need to start investing in Treasury bonds?,"1,2,3",syn_t1_guide_tbonds;syn_t2_article_tbond_min;syn_t3_comm_e_tbonds,"SYN Sh 100,000"
+q042,conflict,Is my money safe from loss in a money market fund?,"1,3",syn_t1_guide_mmf;syn_t3_comm_b_mmf,"No, not guaranteed"
+q043,conflict,How quickly can I get my money out of a money market fund?,"1,3",syn_t1_guide_mmf;syn_t3_comm_e_mmf,Within 2 business days
+q044,conflict,Are money market fund returns taxed?,"1,2,3",syn_t1_guide_tax;syn_t2_article_mmf_tax;syn_t3_comm_d_tax,12 percent final withholding tax
+q045,conflict,Are dividends taxed?,"1,3",syn_t1_guide_tax;syn_t3_comm_b_tax,8 percent
+q046,conflict,Do I pay tax on profits from selling shares?,"1,3",syn_t1_guide_tax;syn_t3_comm_d_tax,"Yes, 2 percent of the gain"
+q047,conflict,When do I receive my shares after buying?,"1,2,3",syn_t1_guide_equities;syn_t2_article_settle;syn_t3_comm_a_equities,"T+3, three business days"
+q048,conflict,How much does it cost to buy shares through a broker?,"1,3",syn_t1_guide_equities;syn_t3_comm_d_equities,1.2 percent of trade value
+q049,conflict,How much income does a REIT have to pay out?,"1,3",syn_t1_guide_reits;syn_t3_comm_d_reits,At least 80 percent
+q050,conflict,How are REIT distributions taxed?,"1,3",syn_t1_guide_reits;syn_t3_comm_f_reits,15 percent
+q051,conflict,Are my SACCO deposits insured?,"1,3",syn_t1_guide_saccos;syn_t3_comm_d_saccos,"Up to SYN Sh 250,000 per member"
+q052,conflict,When can I access my pension savings?,"1,2,3",syn_t1_guide_pensions;syn_t2_article_pension_age;syn_t3_comm_e_pensions,Age 55
+q053,conflict,How much do I need to buy the Sokoni Savings Bond?,"1,2,3",syn_t1_guide_savings_bond;syn_t2_article_sb_min;syn_t3_comm_e_savings_bond,"SYN Sh 3,000"
+q054,conflict,Do I pay tax on Sokoni bond interest?,"1,3",syn_t1_guide_savings_bond;syn_t3_comm_c_savings_bond,"No, the interest is tax-exempt"
+q055,official_fact,What is the management fee of the Duma Money Market Fund?,1,syn_t1_factsheet_duma_money_market,1.4 percent per annum
+q056,official_fact,What is the management fee of the Baraka Money Market Fund?,1,syn_t1_factsheet_baraka_money_market,2.4 percent per annum
+q057,official_fact,What is the management fee of the Tembo Equity Fund?,1,syn_t1_factsheet_tembo_equity,2.6 percent per annum
+q058,official_fact,What is the management fee of the Chui Bond Fund?,1,syn_t1_factsheet_chui_bond,1.8 percent per annum
+q059,official_fact,What is the management fee of the Kiboko Bond Fund?,1,syn_t1_factsheet_kiboko_bond,2.2 percent per annum
+q060,official_fact,What is the management fee of the Kiboko Money Market Fund?,1,syn_t1_factsheet_kiboko_money_market,1.7 percent per annum
+q061,official_fact,What is the management fee of the Nyati Equity Fund?,1,syn_t1_factsheet_nyati_equity,2.2 percent per annum
+q062,official_fact,What is the management fee of the Jua Bond Fund?,1,syn_t1_factsheet_jua_bond,1.6 percent per annum
+q063,official_fact,What is the management fee of the Pweza Money Market Fund?,1,syn_t1_factsheet_pweza_money_market,1.6 percent per annum
+q064,official_fact,What is the management fee of the Kifaru Bond Fund?,1,syn_t1_factsheet_kifaru_bond,1.9 percent per annum
+q065,official_fact,What is the management fee of the Simba Money Market Fund?,1,syn_t1_factsheet_simba_money_market,2.5 percent per annum
+q066,official_fact,What is the management fee of the Tausi Bond Fund?,1,syn_t1_factsheet_tausi_bond,1.9 percent per annum
+q067,official_fact,What is the management fee of the Nyati Money Market Fund?,1,syn_t1_factsheet_nyati_money_market,2.2 percent per annum
+q068,official_fact,What is the management fee of the Tausi Balanced Fund?,1,syn_t1_factsheet_tausi_balanced,2.6 percent per annum
+q069,official_fact,What is the minimum initial investment in the Jua Balanced Fund?,1,syn_t1_factsheet_jua_balanced,"SYN Sh 5,000"
+q070,official_fact,What is the minimum initial investment in the Duma Money Market Fund?,1,syn_t1_factsheet_duma_money_market,SYN Sh 500
+q071,official_fact,What is the minimum initial investment in the Mto Balanced Fund?,1,syn_t1_factsheet_mto_balanced,"SYN Sh 1,000"
+q072,official_fact,What is the minimum initial investment in the Kiboko Equity Fund?,1,syn_t1_factsheet_kiboko_equity,"SYN Sh 10,000"
+q073,official_fact,What is the minimum initial investment in the Mamba Money Market Fund?,1,syn_t1_factsheet_mamba_money_market,"SYN Sh 10,000"
+q074,official_fact,What is the minimum initial investment in the Pweza Money Market Fund?,1,syn_t1_factsheet_pweza_money_market,"SYN Sh 5,000"
+q075,official_fact,What is the minimum initial investment in the Nyati Equity Fund?,1,syn_t1_factsheet_nyati_equity,"SYN Sh 5,000"
+q076,official_fact,What is the minimum initial investment in the Kiboko Money Market Fund?,1,syn_t1_factsheet_kiboko_money_market,"SYN Sh 10,000"
+q077,official_fact,What is the minimum initial investment in the Ndovu Equity Fund?,1,syn_t1_factsheet_ndovu_equity,"SYN Sh 5,000"
+q078,official_fact,What is the minimum initial investment in the Jua Bond Fund?,1,syn_t1_factsheet_jua_bond,"SYN Sh 10,000"
+q079,official_fact,How quickly can I withdraw from the Simba Money Market Fund?,1,syn_t1_factsheet_simba_money_market,Within 1 business days
+q080,official_fact,How quickly can I withdraw from the Mamba Money Market Fund?,1,syn_t1_factsheet_mamba_money_market,Within 3 business days
+q081,official_fact,How quickly can I withdraw from the Nyati Money Market Fund?,1,syn_t1_factsheet_nyati_money_market,Within 1 business days
+q082,official_fact,How quickly can I withdraw from the Pweza Money Market Fund?,1,syn_t1_factsheet_pweza_money_market,Within 3 business days
+q083,conflict,What yield does the Chui Bond Fund pay?,"1,3",syn_t1_factsheet_chui_bond;syn_t3_hype_chui_bond,13.3 percent
+q084,conflict,What yield does the Kiboko Bond Fund pay?,"1,3",syn_t1_factsheet_kiboko_bond;syn_t3_hype_kiboko_bond,10.6 percent
+q085,conflict,What yield does the Baraka Balanced Fund pay?,"1,3",syn_t1_factsheet_baraka_balanced;syn_t3_hype_baraka_balanced,13.4 percent
+q086,conflict,What yield does the Kiboko Money Market Fund pay?,"1,3",syn_t1_factsheet_kiboko_money_market;syn_t3_hype_kiboko_money_market,7.1 percent
+q087,conflict,What yield does the Zuri Balanced Fund pay?,"1,3",syn_t1_factsheet_zuri_balanced;syn_t3_hype_zuri_balanced,9.5 percent
+q088,conflict,What yield does the Jua Bond Fund pay?,"1,3",syn_t1_factsheet_jua_bond;syn_t3_hype_jua_bond,9.7 percent
+q089,conflict,What yield does the Nyota Bond Fund pay?,"1,3",syn_t1_factsheet_nyota_bond;syn_t3_hype_nyota_bond,9.9 percent
+q090,conflict,What yield does the Kiboko Balanced Fund pay?,"1,3",syn_t1_factsheet_kiboko_balanced;syn_t3_hype_kiboko_balanced,14.6 percent
+q091,conflict,What yield does the Baraka Bond Fund pay?,"1,3",syn_t1_factsheet_baraka_bond;syn_t3_hype_baraka_bond,10.0 percent
+q092,conflict,What yield does the Mamba Money Market Fund pay?,"1,3",syn_t1_factsheet_mamba_money_market;syn_t3_hype_mamba_money_market,10.8 percent
+q093,official_fact,What dividend per share did Umoja Holdings (SYN) declare for 2025?,1,syn_t1_listing_umoja_holdings,SYN Sh 6.34
+q094,official_fact,What dividend per share did Kito Agri (SYN) declare for 2025?,1,syn_t1_listing_kito_agri,SYN Sh 0.77
+q095,official_fact,What dividend per share did Safari Retail (SYN) declare for 2025?,1,syn_t1_listing_safari_retail,SYN Sh 7.58
+q096,official_fact,What dividend per share did Msitu Logistics (SYN) declare for 2025?,1,syn_t1_listing_msitu_logistics,SYN Sh 0.66
+q097,official_fact,What dividend per share did Wingu Bank (SYN) declare for 2025?,1,syn_t1_listing_wingu_bank,SYN Sh 5.84
+q098,official_fact,What dividend per share did Wingu Cement (SYN) declare for 2025?,1,syn_t1_listing_wingu_cement,SYN Sh 1.72
+q099,official_fact,What dividend per share did Jangwa Retail (SYN) declare for 2025?,1,syn_t1_listing_jangwa_retail,SYN Sh 3.55
+q100,official_fact,What dividend per share did Mlima Cement (SYN) declare for 2025?,1,syn_t1_listing_mlima_cement,SYN Sh 3.34
+q101,official_fact,What dividend per share did Dhahabu Bank (SYN) declare for 2025?,1,syn_t1_listing_dhahabu_bank,SYN Sh 4.79
+q102,official_fact,What dividend per share did Upepo Agri (SYN) declare for 2025?,1,syn_t1_listing_upepo_agri,SYN Sh 6.36
+q103,official_fact,What dividend per share did Jangwa Holdings (SYN) declare for 2025?,1,syn_t1_listing_jangwa_holdings,SYN Sh 4.65
+q104,official_fact,What dividend per share did Ziwa Bank (SYN) declare for 2025?,1,syn_t1_listing_ziwa_bank,SYN Sh 0.86
+q105,official_fact,What is the ticker of Kilele Insurance (SYN)?,1,syn_t1_listing_kilele_insurance,KIL8
+q106,official_fact,What is the ticker of Upepo Agri (SYN)?,1,syn_t1_listing_upepo_agri,UPE2
+q107,official_fact,What is the ticker of Ziwa Bank (SYN)?,1,syn_t1_listing_ziwa_bank,ZIW2
+q108,official_fact,What is the ticker of Wingu Bank (SYN)?,1,syn_t1_listing_wingu_bank,WIN5
+q109,official_fact,What is the ticker of Jangwa Retail (SYN)?,1,syn_t1_listing_jangwa_retail,JAN1
+q110,official_fact,What is the ticker of Safari Retail (SYN)?,1,syn_t1_listing_safari_retail,SAF6
+q111,conflict,What dividend did Upepo Agri (SYN) pay for 2025?,"1,3",syn_t1_listing_upepo_agri;syn_t3_hype_upepo_agri,SYN Sh 6.36
+q112,conflict,What dividend did Jangwa Holdings (SYN) pay for 2025?,"1,3",syn_t1_listing_jangwa_holdings;syn_t3_hype_jangwa_holdings,SYN Sh 4.65
+q113,conflict,What dividend did Bahari Holdings (SYN) pay for 2025?,"1,3",syn_t1_listing_bahari_holdings;syn_t3_hype_bahari_holdings,SYN Sh 2.75
+q114,conflict,What dividend did Ziwa Bank (SYN) pay for 2025?,"1,3",syn_t1_listing_ziwa_bank;syn_t3_hype_ziwa_bank,SYN Sh 0.86
+q115,conflict,What dividend did Savana Energy (SYN) pay for 2025?,"1,3",syn_t1_listing_savana_energy;syn_t3_hype_savana_energy,SYN Sh 4.29
+q116,conflict,What dividend did Wingu Cement (SYN) pay for 2025?,"1,3",syn_t1_listing_wingu_cement;syn_t3_hype_wingu_cement,SYN Sh 1.72
+q117,conflict,What dividend did Ndege Energy (SYN) pay for 2025?,"1,3",syn_t1_listing_ndege_energy;syn_t3_hype_ndege_energy,SYN Sh 8.45
+q118,conflict,What dividend did Pwani Agri (SYN) pay for 2025?,"1,3",syn_t1_listing_pwani_agri;syn_t3_hype_pwani_agri,SYN Sh 6.73
+q119,market_data,What was the SSE All-Share Index at the close of the week ending 2026-05-22?,2,syn_t2_wrap_2026-05-22,"2,066.19"
+q120,market_data,What was the SSE All-Share Index at the close of the week ending 2026-02-13?,2,syn_t2_wrap_2026-02-13,"1,759.95"
+q121,market_data,What was the SSE All-Share Index at the close of the week ending 2026-03-27?,2,syn_t2_wrap_2026-03-27,"1,907.90"
+q122,market_data,What was the SSE All-Share Index at the close of the week ending 2026-08-21?,2,syn_t2_wrap_2026-08-21,"2,080.95"
+q123,market_data,What was the SSE All-Share Index at the close of the week ending 2026-08-07?,2,syn_t2_wrap_2026-08-07,"2,162.14"
+q124,market_data,What was the SSE All-Share Index at the close of the week ending 2026-07-03?,2,syn_t2_wrap_2026-07-03,"2,162.96"
+q125,market_data,What was the SSE All-Share Index at the close of the week ending 2026-01-30?,2,syn_t2_wrap_2026-01-30,"1,805.23"
+q126,market_data,What was the SSE All-Share Index at the close of the week ending 2026-08-14?,2,syn_t2_wrap_2026-08-14,"2,123.86"
+q127,market_data,At what rate did the 91-day Treasury bill auction clear in the week ending 2026-07-10?,2,syn_t2_wrap_2026-07-10,7.62 percent
+q128,market_data,At what rate did the 91-day Treasury bill auction clear in the week ending 2026-02-13?,2,syn_t2_wrap_2026-02-13,8.64 percent
+q129,market_data,At what rate did the 91-day Treasury bill auction clear in the week ending 2026-09-11?,2,syn_t2_wrap_2026-09-11,9.17 percent
+q130,market_data,At what rate did the 91-day Treasury bill auction clear in the week ending 2026-04-24?,2,syn_t2_wrap_2026-04-24,8.11 percent
+q131,out_of_corpus,What is the current price of Bitcoin?,,,No relevant source; the system should say it cannot answer
+q132,out_of_corpus,How do I trade forex on margin?,,,No relevant source; the system should say it cannot answer
+q133,out_of_corpus,Which airline has the cheapest flights to Dubai?,,,No relevant source; the system should say it cannot answer
+q134,out_of_corpus,How do I start a poultry farm?,,,No relevant source; the system should say it cannot answer
+q135,out_of_corpus,What is the best smartphone to buy this year?,,,No relevant source; the system should say it cannot answer
+q136,out_of_corpus,How does the US Federal Reserve set interest rates?,,,No relevant source; the system should say it cannot answer
+q137,out_of_corpus,What is the price of gold per ounce today?,,,No relevant source; the system should say it cannot answer
+q138,out_of_corpus,How do I buy Tesla shares?,,,No relevant source; the system should say it cannot answer
+q139,out_of_corpus,What are the symptoms of malaria?,,,No relevant source; the system should say it cannot answer
+q140,out_of_corpus,How do I apply for a university scholarship?,,,No relevant source; the system should say it cannot answer
+q141,out_of_corpus,What is the exchange rate of the euro?,,,No relevant source; the system should say it cannot answer
+q142,out_of_corpus,What is the best crypto exchange?,,,No relevant source; the system should say it cannot answer
+q143,out_of_corpus,What is the weather tomorrow?,,,No relevant source; the system should say it cannot answer
+q144,out_of_corpus,How do I register a limited company?,,,No relevant source; the system should say it cannot answer
+q145,out_of_corpus,What is the best way to learn Python?,,,No relevant source; the system should say it cannot answer
+q146,out_of_corpus,Who won the football league last season?,,,No relevant source; the system should say it cannot answer
+q147,out_of_corpus,What is the corporate tax rate in Germany?,,,No relevant source; the system should say it cannot answer
+q148,out_of_corpus,How do I invest in oil futures?,,,No relevant source; the system should say it cannot answer
+q149,out_of_corpus,What is a mortgage interest rate in the United States?,,,No relevant source; the system should say it cannot answer
+q150,out_of_corpus,How do I get a car loan?,,,No relevant source; the system should say it cannot answer
+q151,out_of_corpus,How do I trade options on the S&P 500?,,,No relevant source; the system should say it cannot answer
+q152,out_of_corpus,How do I open a PayPal account?,,,No relevant source; the system should say it cannot answer
+q153,out_of_corpus,What is the best recipe for pilau?,,,No relevant source; the system should say it cannot answer
+q154,out_of_corpus,How do I invest in a Nigerian bank?,,,No relevant source; the system should say it cannot answer
+q155,advice,Which money market fund should I put my savings in?,,,Refuse to recommend; give general information only
+q156,advice,Should I buy Mlima Cement (SYN) shares now?,,,Refuse to recommend; give general information only
+q157,advice,Which fund is the best for me to invest in?,,,Refuse to recommend; give general information only
+q158,advice,Should I put all my money in Treasury bonds?,,,Refuse to recommend; give general information only
+q159,advice,Is Pweza Money Market Fund a good buy for me?,,,Refuse to recommend; give general information only
+q160,advice,Tell me what I should invest in this month.,,,Refuse to recommend; give general information only
+q161,advice,Should I sell my shares in Wingu Cement (SYN)?,,,Refuse to recommend; give general information only
+q162,advice,"Which is better for me, a SACCO or a money market fund?",,,Refuse to recommend; give general information only
+q163,advice,Should I invest my bonus in Duma Balanced Fund?,,,Refuse to recommend; give general information only
+q164,advice,"What should I buy with SYN Sh 100,000?",,,Refuse to recommend; give general information only
+q165,advice,Should I take a loan to buy shares?,,,Refuse to recommend; give general information only
+q166,advice,Which stock will go up next week?,,,Refuse to recommend; give general information only
+q167,advice,Is it a good time for me to buy Treasury bills?,,,Refuse to recommend; give general information only
+q168,advice,Should I move my pension into shares?,,,Refuse to recommend; give general information only
+q169,advice,Which Treasury bond should I choose?,,,Refuse to recommend; give general information only
+q170,advice,Should I buy Kilele Logistics (SYN) or Ndege Energy (SYN)?,,,Refuse to recommend; give general information only
+q171,advice,"Where should I invest SYN Sh 50,000?",,,Refuse to recommend; give general information only
+q172,advice,Do you recommend Simba Money Market Fund for me?,,,Refuse to recommend; give general information only
+q173,advice,Should I join a SACCO or buy a REIT?,,,Refuse to recommend; give general information only
+q174,advice,What is the best investment for me right now?,,,Refuse to recommend; give general information only
